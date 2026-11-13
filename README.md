@@ -10,7 +10,7 @@ A streamlined, single-path progression guide for Free-to-Play (F2P) players from
 
 | Order | Acronym | Transcendence Hero Name | Non-Transcendence Base Hero | Base Faction | Role |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1st (Temp)** | **HHA** | Hyperspace Hunter - Aylamak | **Aylamak** | **Fortress** | 1st Trans Support (Shielder for Eloise; swapped at 2nd Trans) |
+| **1st (Temp)** | **GSSW** | Great Sage - Sun Wukong | **Sun Wukong** | **Light** | 1st Trans Support/Carry (Clears VC 1-1-10 to unlock Grimoire; swapped at 2nd Trans) |
 | **1st/2nd (Main)** | **LFA** | Lord of Fear - Aspen | **Aspen** | **Dark** | Main Carry & Permanent Homeowner (from 2nd Trans onward) |
 | **2nd** | **SQH** | Scarlet Queen - Halora | **Queen** | **Abyss** | Primary Damage Buffer & LFA Slot 2 Tenant |
 | **3rd** | **PDE** | Phantom Defier - Elena | **Elena** | **Dark** | Cleanser/Dodge Buffer & LFA Slot 4 Tenant |
@@ -36,16 +36,18 @@ A streamlined, single-path progression guide for Free-to-Play (F2P) players from
 
 ## Master Progression Timeline (0 to 6 Trans)
 
+*Note: Crystal of Transcendence (CoT) income accelerates as you unlock Void Campaign, higher Realms Gate Corruption, and higher Void Vortex/Ark tiers (~4.5 months for 1st Trans $\rightarrow$ ~3 months for 2nd Trans $\rightarrow$ ~2–2.5 months per Trans thereafter).*
+
 | Stage | Timeline | Milestone | Active Lineup (6 Heroes) | Main Homeowner | Tenants (Slots 1 / 2 / 3 / 4) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Stage 0** | Month 0–1 | First E5 Carry | Eloise, Ignis (9\*), Waldeck (9\*), Tix, Carrie, Onkirimaru | None | None |
-| **Stage 1** | Month 1–3 | Pre-Trans Cloud Island | Eloise, Ignis (9\*), Waldeck (9\*), Tix, Carrie, Onkirimaru | **Eloise** | Onkirimaru / Jahra / Tix / Carrie |
-| **Stage 2** | Month 3–5 | **1st Trans Hero** (5M CoT) | Eloise, **HHA**, Ignis (9\*), Waldeck (9\*), Tix, Carrie | **Eloise** | Onkirimaru / Jahra / Tix / Carrie |
-| **Stage 3** | Month 6–8 | **2nd Trans Pivot** (10M CoT) | **LFA**, **SQH**, Ignis (9\*), Drake, Carrie, Onkirimaru | **LFA** | Drake / **SQH** / Onkirimaru / Mockman |
-| **Stage 4** | Month 9–11 | **3rd Trans Hero** (15M CoT) | **LFA**, **SQH**, **PDE**, Drake, Carrie, Ignis (9\*) | **LFA** | Drake / **SQH** / Onkirimaru / **PDE** |
-| **Stage 5** | Month 12–15 | **4th Trans Hero** (20M CoT) | **LFA**, **SQH**, **PDE**, **TBB**, Carrie, Drake | **LFA** | Drake / **SQH** / Onkirimaru / **PDE** |
-| **Stage 6** | Month 15–18 | **5th Trans Hero** (25M CoT) | **LFA**, **SQH**, **PDE**, **TBB**, **DGN**, Carrie | **LFA** | Drake / **SQH** / Onkirimaru / **PDE** |
-| **Stage 7** | Month 18–22 | **6th Trans Hero** (30M CoT) | **LFA**, **SQH**, **PDE**, **TBB**, **DGN**, **LBRM** | **LFA** | Drake / **SQH** / Onkirimaru / **PDE** |
+| **Stage 1** | Month 1–2.5 | Pre-Trans Cloud Island | Eloise, Ignis (9\*), Waldeck (9\*), Tix, Carrie, Onkirimaru | **Eloise** | Onkirimaru / Jahra / Tix / Carrie |
+| **Stage 2** | Month 2.5–4.5 | **1st Trans Hero** (5M CoT) | Eloise, **GSSW**, Ignis (9\*), Waldeck (9\*), Tix, Carrie | **Eloise** | Onkirimaru / Jahra / Tix / Carrie |
+| **Stage 3** | Month 4.5–7.5 | **2nd Trans Pivot** (10M CoT) | **LFA**, **SQH**, Ignis (9\*), Drake, Carrie, Onkirimaru | **LFA** | Drake / **SQH** / Onkirimaru / Mockman |
+| **Stage 4** | Month 7.5–10 | **3rd Trans Hero** (15M CoT) | **LFA**, **SQH**, **PDE**, Drake, Carrie, Ignis (9\*) | **LFA** | Drake / **SQH** / Onkirimaru / **PDE** |
+| **Stage 5** | Month 10–12.5 | **4th Trans Hero** (20M CoT) | **LFA**, **SQH**, **PDE**, **TBB**, Carrie, Drake | **LFA** | Drake / **SQH** / Onkirimaru / **PDE** |
+| **Stage 6** | Month 12.5–14.5 | **5th Trans Hero** (25M CoT) | **LFA**, **SQH**, **PDE**, **TBB**, **DGN**, Carrie | **LFA** | Drake / **SQH** / Onkirimaru / **PDE** |
+| **Stage 7** | Month 14.5–16.5 | **6th Trans Hero** (30M CoT) | **LFA**, **SQH**, **PDE**, **TBB**, **DGN**, **LBRM** | **LFA** | Drake / **SQH** / Onkirimaru / **PDE** |
 
 > **Golden Resource Rule:** Always choose **Stellar Shards** over **Crystals of Transcendence (CoT)** from every chest and event. Never convert Spheres of Transcendence into CoT—always convert Spheres into **Stellar Shards**.
 
@@ -80,7 +82,7 @@ Focus 100% of food and copies on building **Eloise to E5** first. Do not build m
 
 ---
 
-### Stage 1: Pre-Transcendence Cloud Island (Month 1–3)
+### Stage 1: Pre-Transcendence Cloud Island (Month 1–2.5)
 Once Eloise reaches **Void Imprint 4 (V4)**, she unlocks **Cloud Island** as your first Homeowner. Build her 4 Tenants to E5.
 
 * **Active Lineup (6 Heroes):** Eloise, Ignis (9\*), Waldeck (9\*), Tix, Carrie, Onkirimaru
@@ -89,35 +91,35 @@ Once Eloise reaches **Void Imprint 4 (V4)**, she unlocks **Cloud Island** as you
 | Hero (Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Eloise** (Shadow) | Homeowner / Tank | **V4** | **T3 (Lvl 60)** | `0/0/0/0` (Spiritual Essence only) | `0*` | **HP / Attack** | **Base Golden Crown** |
-| **Onkirimaru** (Shadow) | Tenant (Slot 1) | V0 (E5) | T0 | `0/0/0/0` | `0*` | Attack / Attack | Highest Attack Stat |
-| **Jahra** (Shadow) | Tenant (Slot 2) | V0 (E5) | T0 | `0/0/0/0` | `0*` | Attack / Attack | Highest Attack Stat |
-| **Tix** (Shadow) | Tenant (Slot 3) / Burst | V0 (E5) | T0 | `0/0/0/0` | `0*` | Crit / Crit / Atk | Melodic Strings |
-| **Carrie** (Dark) | Tenant (Slot 4) / Energy Drain | V0 (E5) | T0 | `0/0/0/0` | `0*` | HP / HP | Magic Source |
+| **Onkirimaru** (Shadow) | Tenant (Slot 1) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| **Jahra** (Shadow) | Tenant (Slot 2) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| **Tix** (Shadow) | Tenant (Slot 3) / Burst | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Melodic Strings |
+| **Carrie** (Dark) | Tenant (Slot 4) / Energy Drain | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Magic Source |
 
 ---
 
-### Stage 2: 1st Transcendence Hero — HHA (Month 3–5)
-At **5M Crystals of Transcendence**, transcend **Aylamak (Fortress)** into **Hyperspace Hunter - Aylamak (HHA)**. **Keep Eloise as your main Homeowner**—do not move Eloise out of her house yet, as a fully tenanted V4/T3 Eloise with HHA shielding her clears further than a solo 1-Trans homeowner.
+### Stage 2: 1st Transcendence Hero — GSSW (Month 2.5–4.5)
+At **5M Crystals of Transcendence**, transcend **Sun Wukong (Light)** into **Great Sage - Sun Wukong (GSSW)**. **Keep Eloise as your main Homeowner**—do not move Eloise out of her house yet. Invest Stellar Shards to **V4 + T2 (Lvl 40) GSSW** (rather than V4ing Eloise's non-Trans tenants) so GSSW can clear **Void Campaign 1-1-10** immediately and unlock passive **Primal Grimoire** resource drops.
 
-* **Active Lineup (6 Heroes):** Eloise, **HHA**, Ignis (9\*), Waldeck (9\*), Tix, Carrie
+* **Active Lineup (6 Heroes):** Eloise, **GSSW**, Ignis (9\*), Waldeck (9\*), Tix, Carrie
 * **Eloise Tenants:** Slot 1: Onkirimaru (E5 - Shadow) | Slot 2: Jahra (E5 - Shadow) | Slot 3: Tix (E5 - Shadow) | Slot 4: Carrie (E5 - Dark)
 
 | Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Eloise** (Shadow) | Homeowner / Carry | **V4** | **T3 (Lvl 60)** | `0/0/0/0` | `0*` | **HP / Attack** | **Base Golden Crown** |
-| **HHA** (Aylamak - Fortress) | 1st Trans / Shielder | **V4** | **T1 (Lvl 20)** | `0/0/0/0` | `0*` | **Block / Attack** | **Splendid Melodic Strings** (or Crown) |
-| **Onkirimaru** (Shadow) | Eloise Tenant (Slot 1) | V0 (E5) | T0 | `0/0/0/0` | `0*` | Attack / Attack | Stat Stick |
-| **Jahra** (Shadow) | Eloise Tenant (Slot 2) | V0 (E5) | T0 | `0/0/0/0` | `0*` | Attack / Attack | Stat Stick |
-| **Tix** (Shadow) | Eloise Tenant (Slot 3) | V0 (E5) | T0 | `0/0/0/0` | `0*` | Crit / Crit / Atk | Melodic Strings |
-| **Carrie** (Dark) | Eloise Tenant (Slot 4) | V0 (E5) | T0 | `0/0/0/0` | `0*` | HP / HP | Magic Source |
+| **GSSW** (Sun Wukong - Light) | 1st Trans / CC & Shielder | **V4** | **T2 (Lvl 40)** | `0/0/0/0` | `0*` | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings** |
+| **Onkirimaru** (Shadow) | Eloise Tenant (Slot 1) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| **Jahra** (Shadow) | Eloise Tenant (Slot 2) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| **Tix** (Shadow) | Eloise Tenant (Slot 3) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| **Carrie** (Dark) | Eloise Tenant (Slot 4) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Magic Source |
 
 ---
 
-### Stage 3: 2nd Transcendence Pivot — LFA + SQH (Month 6–8)
+### Stage 3: 2nd Transcendence Pivot — LFA + SQH (Month 4.5–7.5)
 At **10M Crystals of Transcendence** (and ~18M+ Stellar Shards), perform the **Main Pivot**:
-1. Regress **Eloise (Shadow)** and **HHA (Aylamak - Fortress)** (complete the *Glory Challenge* Tree of Origin level 120 quests across Abyss, Shadow, Fortress, and Forest during this regression to claim massive free Stellar Shards and Spiritual Essence).
+1. Regress **Eloise (Shadow)** and **GSSW (Sun Wukong - Light)** (complete the *Glory Challenge* Tree of Origin level 120 quests across Abyss, Shadow, Fortress, and Forest during this regression to claim massive free Stellar Shards and Spiritual Essence).
 2. Transcend **Aspen (Dark)** into **Lord of Fear - Aspen (LFA)** and **Queen (Abyss)** into **Scarlet Queen - Halora (SQH)**.
-3. Make **LFA** your permanent **Main Homeowner** in Cloud Island and unlock **Void Campaign**.
+3. Make **LFA** your permanent **Main Homeowner** in Cloud Island.
 
 * **Active Lineup (6 Heroes):** **LFA**, **SQH**, Ignis (9\*), Drake, Carrie, Onkirimaru
 * **LFA Tenants:** Slot 1: Drake (E5 - Dark) | Slot 2: **SQH** (Queen - Abyss) | Slot 3: Onkirimaru (E5 - Shadow) | Slot 4: Mockman (E5 - Dark, temporary placeholder until PDE)
@@ -126,15 +128,15 @@ At **10M Crystals of Transcendence** (and ~18M+ Stellar Shards), perform the **M
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **LFA** (Aspen - Dark) | **Main Homeowner / Carry** | **V4** | **T5 (Lvl 100)** | **`4/0/0/4`** (Max Active, then Max P3) | **`0*`** | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings** (or Ruyi) |
 | **SQH** (Queen - Abyss) | LFA Tenant (Slot 2) / Buffer | **V4** | **T3 (Lvl 60)** | **`4/0/0/0`** (Max Active) | `0*` | **Speed / Attack** | **Splendid Demon Bell** |
-| **Drake** (Dark) | LFA Tenant (Slot 1) / Debuffer | V0 (E5) | T0 | `0/0/0/0` | `0*` | Speed / HP | Magic Source |
-| **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | V0 (E5) | T0 | `0/0/0/0` | `0*` | Attack / Attack | Highest Attack Artifact |
-| **Mockman** (Dark) | LFA Tenant (Slot 4 Temp) | V0 (E5) | T0 | `0/0/0/0` | `0*` | Attack / Attack | Highest Attack Artifact |
+| **Drake** (Dark) | LFA Tenant (Slot 1) / Debuffer | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Magic Source |
+| **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| **Mockman** (Dark) | LFA Tenant (Slot 4 Temp) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 
 * **Speed Tuning Rule:** When running Demon Bell on SQH, ensure **SQH is faster than LFA** in battle so she buffs team Crit Damage and applies Abyssal Corruption before LFA strikes.
 
 ---
 
-### Stage 4: 3rd Transcendence Hero — PDE (Month 9–11)
+### Stage 4: 3rd Transcendence Hero — PDE (Month 7.5–10)
 At **15M Crystals of Transcendence**, transcend **Elena (Dark)** into **Phantom Defier - Elena (PDE)**. She replaces Mockman in **Slot 4 of LFA's House**, completing LFA's double-Transcendence tenant core and supercharging LFA's Attack stat.
 
 * **Active Lineup (6 Heroes):** **LFA**, **SQH**, **PDE**, Drake, Carrie, Ignis (9\*)
@@ -145,12 +147,12 @@ At **15M Crystals of Transcendence**, transcend **Elena (Dark)** into **Phantom 
 | **LFA** (Aspen - Dark) | **Main Homeowner / Carry** | **V4** | **T5 (Lvl 120)** | **`4/0/4/4`** (Add Max P2) | **`1*`** | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings** |
 | **SQH** (Queen - Abyss) | LFA Tenant (Slot 2) / Buffer | **V4** | **T5 (Lvl 100)** | **`4/0/0/4`** (Max Active & P3) | `0*` | **Speed / Attack** | **Splendid Demon Bell** |
 | **PDE** (Elena - Dark) | LFA Tenant (Slot 4) / Cleanser | **V4** | **T5 (Lvl 100)** | **`1/0/4/0`** (1 node Active, Max P2) | `0*` | **Attack / Attack** | **Splendid Demon Bell** |
-| **Drake** (Dark) | LFA Tenant (Slot 1) | V1 | T0 | `0/0/0/0` | `0*` | Attack / Attack | Highest Attack Artifact |
-| **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | V1 | T0 | `0/0/0/0` | `0*` | Attack / Attack | Highest Attack Artifact |
+| **Drake** (Dark) | LFA Tenant (Slot 1) | V1 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | V1 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 
 ---
 
-### Stage 5: 4th Transcendence Hero — TBB (Month 12–15)
+### Stage 5: 4th Transcendence Hero — TBB (Month 10–12.5)
 At **20M Crystals of Transcendence**, transcend **Betty (Shadow)** into **Therapist of Blood - Betty (TBB)**. TBB is the ultimate Crowd Control hero in Void Campaign.
 * **Critical Mechanic:** TBB requires her **1\* Core of Origin** active in battle to instantly trigger AoE Twine whenever she gains full energy. She only needs **Tree Level 20 (T1)** to equip her 1\* Core—do not over-invest Stellar Shards into her over LFA's tenants.
 
@@ -168,7 +170,7 @@ At **20M Crystals of Transcendence**, transcend **Betty (Shadow)** into **Therap
 
 ---
 
-### Stage 6: 5th Transcendence Hero — DGN (Month 15–18)
+### Stage 6: 5th Transcendence Hero — DGN (Month 12.5–14.5)
 At **25M Crystals of Transcendence**, transcend **Natalie (Light)** into **Doppelganger - Natalia (DGN)**. DGN replicates buffs/shields and dramatically increases LFA's survivability and burst ceiling in Void Campaign Chapters 4–5+.
 
 * **Active Lineup (6 Heroes):** **LFA**, **SQH**, **PDE**, **TBB**, **DGN**, Carrie
@@ -184,7 +186,7 @@ At **25M Crystals of Transcendence**, transcend **Natalie (Light)** into **Doppe
 
 ---
 
-### Stage 7: 6th Transcendence Hero — LBRM (Month 18–22)
+### Stage 7: 6th Transcendence Hero — LBRM (Month 14.5–16.5)
 At **30M Crystals of Transcendence**, transcend **Melissa (Forest)** into **Lady of Blossom Realm - Melissa (LBRM)** to complete your full 6-Transcendence lineup (`LFA + SQH + PDE + TBB + DGN + LBRM`). LBRM cleanses debilitating control/attribute reduction effects and amplifies LFA's damage.
 
 * **Active Lineup (6 Heroes):** **LFA**, **SQH**, **PDE**, **TBB**, **DGN**, **LBRM**
