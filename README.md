@@ -81,13 +81,13 @@ Once Eloise reaches **Void Imprint 4 (V4)**, she unlocks **Cloud Island** as you
 
 * **Active Lineup (Positions 1–6):** Eloise, Ignis (9\*), Waldeck (9\*), Tix, Carrie, Onkirimaru
 
-| Hero (Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Eloise** (Shadow) | Homeowner / Tank | **V4** | **T3 (Lvl 60)** | `0/0/0/0` (Spiritual Essence only) | `0*` | **HP / Attack** | **Base Golden Crown** |
-| **Onkirimaru** (Shadow) | Tenant (Slot 1) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
-| **Jahra** (Shadow) | Tenant (Slot 2) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
-| **Tix** (Shadow) | Tenant (Slot 3) / Burst | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | **Splendid Melodic Strings** |
-| **Carrie** (Dark) | Tenant (Slot 4) / Energy Drain | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| Hero (Faction) | Role | Enables | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Eloise** (Shadow) | Homeowner / Tank | `1-1-4-1-2` | **V4** | **T3 (Lvl 60)** | `0/0/0/0` (Spiritual Essence only) | `0*` | **HP / Attack** | **Base Golden Crown** |
+| **Onkirimaru** (Shadow) | Tenant (Slot 1) | `2-2-4-2-2` | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| **Jahra** (Shadow) | Tenant (Slot 2) | `2-2-4-2-2` | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| **Tix** (Shadow) | Tenant (Slot 3) / Burst | `2-2-4-2-2` | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | **Splendid Melodic Strings** |
+| **Carrie** (Dark) | Tenant (Slot 4) / Energy Drain | `2-2-4-2-2` | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 
 ---
 
@@ -96,14 +96,14 @@ At **5M Crystals of Transcendence**, transcend **Sun Wukong (Light)** into **Gre
 
 * **Active Lineup (Positions 1–6):** Eloise, Ignis (9\*), Waldeck (9\*), **GSSW**, Tix, Carrie
 
-| Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Eloise** (Shadow) | Homeowner / Carry | **V4** | **T3 (Lvl 60)** | `0/0/0/0` | `0*` | **HP / Attack** | **Base Golden Crown** |
-| **GSSW** (Sun Wukong - Light) | 1st Trans / CC & Shielder | **V4** | **T2 (Lvl 40)** | `0/0/0/0` | `0*` | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings** |
-| **Onkirimaru** (Shadow) | Eloise Tenant (Slot 1) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
-| **Jahra** (Shadow) | Eloise Tenant (Slot 2) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
-| **Tix** (Shadow) | Eloise Tenant (Slot 3) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
-| **Carrie** (Dark) | Eloise Tenant (Slot 4) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| Hero (Base / Faction) | Role | Enables | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Eloise** (Shadow) | Homeowner / Carry | `1-1-4-1-2` | **V4** | **T3 (Lvl 60)** | `0/0/0/0` | `0*` | **HP / Attack** | **Base Golden Crown** |
+| **GSSW** (Sun Wukong - Light) | 1st Trans / CC & Shielder | `2-2-4-2-2` | **V4** | **T2 (Lvl 40)** | `0/0/0/0` | `0*` | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings** |
+| **Onkirimaru** (Shadow) | Eloise Tenant (Slot 1) | `2-2-4-2-2` | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| **Jahra** (Shadow) | Eloise Tenant (Slot 2) | `2-2-4-2-2` | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| **Tix** (Shadow) | Eloise Tenant (Slot 3) | `2-2-4-2-2` | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| **Carrie** (Dark) | Eloise Tenant (Slot 4) | `2-2-4-2-2` | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 
 ---
 
@@ -116,13 +116,13 @@ At **10M Crystals of Transcendence** (and ~18M+ Stellar Shards), perform the **M
 * **Active Lineup (Positions 1–6):** **LFA**, Ignis (9\*), **SQH**, Drake, Carrie, Onkirimaru
 * **Speed Order:** **`SQH` > `LFA`** — SQH must act before LFA in Round 1 so her Demon Bell feeds energy and her Active buffs Crit Damage + applies Abyssal Corruption before LFA strikes (remove LFA's boots if LFA's house makes him too fast).
 
-| Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **LFA** (Aspen - Dark) | **Main Homeowner / Carry** | **V4** | **T5 (Lvl 100)** | **`4/0/0/4`** (Max Active, then Max P3) | **`0*`** | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings** |
-| **SQH** (Queen - Abyss) | LFA Tenant (Slot 2) / Buffer | **V4** | **T3 (Lvl 60)** | **`4/0/0/0`** (Max Active) | `0*` | **Speed / Attack** | **Splendid Demon Bell** |
-| **Drake** (Dark) | LFA Tenant (Slot 1) / Debuffer | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
-| **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
-| **Mockman** (Dark) | LFA Tenant (Slot 4 Temp) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| Hero (Base / Faction) | Role | Enables | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **LFA** (Aspen - Dark) | **Main Homeowner / Carry** | `2-2-4-2-2` | **V4** | **T5 (Lvl 100)** | **`4/0/0/4`** (Max Active, then Max P3) | **`0*`** | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings** |
+| **SQH** (Queen - Abyss) | LFA Tenant (Slot 2) / Buffer | `3-1-4-3-2` | **V4** | **T3 (Lvl 60)** | **`4/0/0/0`** (Max Active) | `0*` | **Speed / Attack** | **Splendid Demon Bell** |
+| **Drake** (Dark) | LFA Tenant (Slot 1) / Debuffer | `2-2-4-2-2` | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | `2-2-4-2-2` | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| **Mockman** (Dark) | LFA Tenant (Slot 4 Temp) | `2-2-4-2-2` | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 
 ---
 
@@ -132,13 +132,13 @@ At **15M Crystals of Transcendence**, transcend **Elena (Dark)** into **Phantom 
 * **Active Lineup (Positions 1–6):** **LFA**, Ignis (9\*), **SQH**, **PDE**, Drake, Carrie
 * **Speed Order:** **`SQH`, `PDE` > `LFA`** — Both Speed-stone Demon Bell supports act before LFA in Round 1 to feed energy and buff LFA before he attacks.
 
-| Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **LFA** (Aspen - Dark) | **Main Homeowner / Carry** | **V4** | **T5 (Lvl 120)** | **`4/0/4/4`** (Add Max P2) | **`1*`** | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings** |
-| **SQH** (Queen - Abyss) | LFA Tenant (Slot 2) / Buffer | **V4** | **T5 (Lvl 100)** | **`4/0/0/4`** (Max Active & P3) | `0*` | **Speed / Attack** | **Splendid Demon Bell** |
-| **PDE** (Elena - Dark) | LFA Tenant (Slot 4) / Cleanser | **V4** | **T5 (Lvl 100)** | **`1/0/4/0`** (1 node Active, Max P2) | `0*` | **Speed / Attack** | **Splendid Demon Bell** |
-| **Drake** (Dark) | LFA Tenant (Slot 1) | V1 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
-| **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | V1 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| Hero (Base / Faction) | Role | Enables | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **LFA** (Aspen - Dark) | **Main Homeowner / Carry** | `2-2-4-2-2` | **V4** | **T5 (Lvl 120)** | **`4/0/4/4`** (Add Max P2) | **`1*`** | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings** |
+| **SQH** (Queen - Abyss) | LFA Tenant (Slot 2) / Buffer | `3-1-4-3-2` | **V4** | **T5 (Lvl 100)** | **`4/0/0/4`** (Max Active & P3) | `0*` | **Speed / Attack** | **Splendid Demon Bell** |
+| **PDE** (Elena - Dark) | LFA Tenant (Slot 4) / Cleanser | `3-1-4-3-2` | **V4** | **T5 (Lvl 100)** | **`1/0/4/0`** (1 node Active, Max P2) | `0*` | **Speed / Attack** | **Splendid Demon Bell** |
+| **Drake** (Dark) | LFA Tenant (Slot 1) | `2-2-4-2-2` | V1 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | `2-2-4-2-2` | V1 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 
 ---
 
@@ -149,14 +149,14 @@ At **20M Crystals of Transcendence**, transcend **Betty (Shadow)** into **Therap
 * **Active Lineup (Positions 1–6):** **LFA**, **SQH**, **PDE**, **TBB**, Carrie, Drake
 * **Speed Order:** **`SQH`, `PDE` > `LFA`** (TBB's speed does not matter because her `1* Core` + `Illusive Mirror` starts her at 100 Energy and triggers AoE Twine passively after the first action of Round 1).
 
-| Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **LFA** (Aspen - Dark) | **Main Homeowner / Carry** | **V4** | **T5 (Lvl 120)** | **`4/4/4/4` (Full Sublimation)** | **`3*` (Noble / DT)** | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings** |
-| **SQH** (Queen - Abyss) | LFA Tenant (Slot 2) | **V4** | **T5 (Lvl 100)** | **`4/0/0/4`** | `0*` | **Speed / Attack** | **Splendid Demon Bell** |
-| **PDE** (Elena - Dark) | LFA Tenant (Slot 4) | **V4** | **T5 (Lvl 100)** | **`1/0/4/4`** (Add Max P3) | `0*` | **Speed / Attack** | **Splendid Demon Bell** |
-| **TBB** (Betty - Shadow) | Crowd Control Lockdown | **V4** | **T1 (Lvl 20)** | **`0/0/0/0`** | **`1*` (Active Core)** | **HP / HP** | **Splendid Illusive Mirror** |
-| **Drake** (Dark) | LFA Tenant (Slot 1) | V2 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
-| **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | V2 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| Hero (Base / Faction) | Role | Enables | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **LFA** (Aspen - Dark) | **Main Homeowner / Carry** | `2-2-4-2-2` | **V4** | **T5 (Lvl 120)** | **`4/4/4/4` (Full Sublimation)** | **`3*` (Noble / DT)** | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings** |
+| **SQH** (Queen - Abyss) | LFA Tenant (Slot 2) | `3-1-4-3-2` | **V4** | **T5 (Lvl 100)** | **`4/0/0/4`** | `0*` | **Speed / Attack** | **Splendid Demon Bell** |
+| **PDE** (Elena - Dark) | LFA Tenant (Slot 4) | `3-1-4-3-2` | **V4** | **T5 (Lvl 100)** | **`1/0/4/4`** (Add Max P3) | `0*` | **Speed / Attack** | **Splendid Demon Bell** |
+| **TBB** (Betty - Shadow) | Crowd Control Lockdown | `1-1-4-1-2` | **V4** | **T1 (Lvl 20)** | **`0/0/0/0`** | **`1*` (Active Core)** | **HP / HP** | **Splendid Illusive Mirror** |
+| **Drake** (Dark) | LFA Tenant (Slot 1) | `2-2-4-2-2` | V2 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | `2-2-4-2-2` | V2 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 
 > **Core of Origin Priority:** Get **1\* TBB Core** (2× 50-shard chests / 100 shards) immediately when building TBB and activate it in every Void Campaign wave. Put all other Core chests into **LFA's 3\* Noble Core (8× 50-shard chests / 400 shards)** so LFA can unlock **Destiny Transition (DT)**.
 
@@ -168,15 +168,15 @@ At **25M Crystals of Transcendence**, transcend **Natalie (Light)** into **Doppe
 * **Active Lineup (Positions 1–6):** **LFA**, **SQH**, **PDE**, **TBB**, **DGN**, Carrie
 * **Speed Order:** **`SQH`, `PDE`, `DGN` > `LFA`** — All three Speed-stone Demon Bell supports act before LFA in Round 1 to stack buffs and feed energy before LFA's Active.
 
-| Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **LFA** (Aspen - Dark) | **Main Homeowner (DT)** | **V4** | **T5 (Lvl 120)** | **`4/4/4/4`** | **`3*` (Destiny Transition)** | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings** |
-| **SQH** (Queen - Abyss) | LFA Tenant (Slot 2) (DT) | **V4** | **T5 (Lvl 120)** | **`4/4/4/4` (Full for DT)** | **`3*` (2nd DT Target)** | **Speed / Attack** | **Splendid Demon Bell** |
-| **PDE** (Elena - Dark) | LFA Tenant (Slot 4) | **V4** | **T5 (Lvl 100)** | **`1/0/4/4`** | `0*` | **Speed / Attack** | **Splendid Demon Bell** |
-| **TBB** (Betty - Shadow) | Crowd Control Lockdown | **V4** | **T1 (Lvl 20)** | **`0/0/0/0`** | **`1*` (Active in VC)** | **HP / HP** | **Splendid Illusive Mirror** |
-| **DGN** (Natalie - Light) | Buffer / Shield Replicator | **V4** | **T5 (Lvl 100)** | **`1/0/0/4`** (1 Active, Max P3) | `0*` | **Speed / HP** | **Splendid Demon Bell** |
-| **Drake** (Dark) | LFA Tenant (Slot 1) | V3 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
-| **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | V3 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| Hero (Base / Faction) | Role | Enables | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **LFA** (Aspen - Dark) | **Main Homeowner (DT)** | `2-2-4-2-2` | **V4** | **T5 (Lvl 120)** | **`4/4/4/4`** | **`3*` (Destiny Transition)** | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings** |
+| **SQH** (Queen - Abyss) | LFA Tenant (Slot 2) (DT) | `3-1-4-3-2` | **V4** | **T5 (Lvl 120)** | **`4/4/4/4` (Full for DT)** | **`3*` (2nd DT Target)** | **Speed / Attack** | **Splendid Demon Bell** |
+| **PDE** (Elena - Dark) | LFA Tenant (Slot 4) | `3-1-4-3-2` | **V4** | **T5 (Lvl 100)** | **`1/0/4/4`** | `0*` | **Speed / Attack** | **Splendid Demon Bell** |
+| **TBB** (Betty - Shadow) | Crowd Control Lockdown | `1-1-4-1-2` | **V4** | **T1 (Lvl 20)** | **`0/0/0/0`** | **`1*` (Active in VC)** | **HP / HP** | **Splendid Illusive Mirror** |
+| **DGN** (Natalie - Light) | Buffer / Shield Replicator | `3-1-4-3-2` | **V4** | **T5 (Lvl 100)** | **`1/0/0/4`** (1 Active, Max P3) | `0*` | **Speed / HP** | **Splendid Demon Bell** |
+| **Drake** (Dark) | LFA Tenant (Slot 1) | `2-2-4-2-2` | V3 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | `2-2-4-2-2` | V3 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 
 ---
 
@@ -186,16 +186,16 @@ At **30M Crystals of Transcendence**, transcend **Melissa (Forest)** into **Lady
 * **Active Lineup (Positions 1–6):** **LFA**, **SQH**, **PDE**, **TBB**, **DGN**, **LBRM**
 * **Speed Order:** **`SQH`, `PDE`, `DGN`, `LBRM` > `LFA`** — All four Speed-stone Demon Bell supports act before LFA in Round 1 to cleanse, buff, and overcharge LFA's energy before he strikes.
 
-| Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **LFA** (Aspen - Dark) | **Main Homeowner (DT)** | **V4** | **T5 (Lvl 120)** | **`4/4/4/4`** | **`3*` (DT)** | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings** |
-| **SQH** (Queen - Abyss) | LFA Tenant (Slot 2) (DT) | **V4** | **T5 (Lvl 120)** | **`4/4/4/4`** | **`3*` (DT)** | **Speed / Attack** | **Splendid Demon Bell** |
-| **PDE** (Elena - Dark) | LFA Tenant (Slot 4) (DT) | **V4** | **T5 (Lvl 120)** | **`4/4/4/4` (Full for DT)** | **`3*` (3rd DT Target)** | **Speed / Attack** | **Splendid Demon Bell** |
-| **TBB** (Betty - Shadow) | Crowd Control Lockdown | **V4** | **T1 (Lvl 20)** | **`0/0/0/0`** | **`1*`** | **HP / HP** | **Splendid Illusive Mirror** |
-| **DGN** (Natalie - Light) | Buffer / Shield Support | **V4** | **T5 (Lvl 100)** | **`1/0/4/4`** | `0*` | **Speed / HP** | **Splendid Demon Bell** |
-| **LBRM** (Melissa - Forest) | Cleanser / Damage Amp | **V4** | **T5 (Lvl 100)** | **`4/0/0/4`** (Max Active & P3) | `0*` | **Speed / HP** | **Splendid Demon Bell** |
-| **Drake** (Dark) | LFA Tenant (Slot 1) | V4 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
-| **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | V4 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| Hero (Base / Faction) | Role | Enables | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **LFA** (Aspen - Dark) | **Main Homeowner (DT)** | `2-2-4-2-2` | **V4** | **T5 (Lvl 120)** | **`4/4/4/4`** | **`3*` (DT)** | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings** |
+| **SQH** (Queen - Abyss) | LFA Tenant (Slot 2) (DT) | `3-1-4-3-2` | **V4** | **T5 (Lvl 120)** | **`4/4/4/4`** | **`3*` (DT)** | **Speed / Attack** | **Splendid Demon Bell** |
+| **PDE** (Elena - Dark) | LFA Tenant (Slot 4) (DT) | `3-1-4-3-2` | **V4** | **T5 (Lvl 120)** | **`4/4/4/4` (Full for DT)** | **`3*` (3rd DT Target)** | **Speed / Attack** | **Splendid Demon Bell** |
+| **TBB** (Betty - Shadow) | Crowd Control Lockdown | `1-1-4-1-2` | **V4** | **T1 (Lvl 20)** | **`0/0/0/0`** | **`1*`** | **HP / HP** | **Splendid Illusive Mirror** |
+| **DGN** (Natalie - Light) | Buffer / Shield Support | `3-1-4-3-2` | **V4** | **T5 (Lvl 100)** | **`1/0/4/4`** | `0*` | **Speed / HP** | **Splendid Demon Bell** |
+| **LBRM** (Melissa - Forest) | Cleanser / Damage Amp | `3-1-4-3-2` | **V4** | **T5 (Lvl 100)** | **`4/0/0/4`** (Max Active & P3) | `0*` | **Speed / HP** | **Splendid Demon Bell** |
+| **Drake** (Dark) | LFA Tenant (Slot 1) | `2-2-4-2-2` | V4 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | `2-2-4-2-2` | V4 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 
 ---
 
@@ -222,3 +222,17 @@ Unlocking **Destiny Transition (DT)** on a hero requires **Tree Level 120 (T5)**
 2. **LFA 3\* Noble Core** (400 shards / 8 chests) — Unlocks **1st Destiny Transition (LFA)**.
 3. **SQH 3\* Noble Core** (400 shards / 8 chests) — Unlocks **2nd Destiny Transition (SQH)**.
 4. **PDE 3\* Noble Core** (400 shards / 8 chests) — Unlocks **3rd Destiny Transition (PDE)**.
+
+### 3. Enables Reference (`E1`–`E5`)
+All heroes use **`4` (CC Purify)** in `E3` and **`2` (Unbending Will)** in `E5`:
+* **`2-2-4-2-2` (Carry & Pure Tenants — `LFA`, `GSSW`, `Onkirimaru`, `Jahra`, `Tix`, `Carrie`, `Drake`, `Mockman`):** `+8% Atk` / `+12% Extra Dmg` / `CC Purify` / `+8% Atk` / `Unbending Will`
+* **`3-1-4-3-2` (Speed Supports — `SQH`, `PDE`, `DGN`, `LBRM`):** `+6% HP, +4% Atk, +20 Spd` / `-15% Crit Dmg Received` / `CC Purify` / `+6% HP, +4% Atk, +20 Spd` / `Unbending Will`
+* **`1-1-4-1-2` (HP Tank & CC — `Eloise`, `TBB`):** `+12% HP` / `-15% Crit Dmg Received` / `CC Purify` / `+12% HP` / `Unbending Will`
+
+| Tier | `1` | `2` | `3` | `4` | `5` | `6` |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **E1** | `+12% HP` | `+8% Atk` | `+6% HP, +4% Atk, +20 Spd` | — | — | — |
+| **E2** | `-15% Crit Dmg Received` | `+12% Extra Dmg` | `+15% Healed Effect` | — | — | — |
+| **E3** | Heal Self (`15%` missing HP) | Self Atk (`+1.2%` per hero) | Mark Purify | **CC Purify** | DoT Purify | Attr Reduction Purify |
+| **E4** | `+12% HP` | `+8% Atk` | `+6% HP, +4% Atk, +20 Spd` | — | — | — |
+| **E5** | Self HP on Crit or `+30%` Dmg | **Fatal Damage Shield** | — | — | — | — |
