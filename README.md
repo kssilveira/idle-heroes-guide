@@ -86,7 +86,7 @@ Once Eloise reaches **Void Imprint 4 (V4)**, she unlocks **Cloud Island** as you
 | **Onkirimaru** (Shadow) | Tenant (Slot 1) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 | **Jahra** (Shadow) | Tenant (Slot 2) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 | **Tix** (Shadow) | Tenant (Slot 3) / Burst | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Melodic Strings |
-| **Carrie** (Dark) | Tenant (Slot 4) / Energy Drain | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Magic Source |
+| **Carrie** (Dark) | Tenant (Slot 4) / Energy Drain | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 
 ---
 
@@ -102,7 +102,7 @@ At **5M Crystals of Transcendence**, transcend **Sun Wukong (Light)** into **Gre
 | **Onkirimaru** (Shadow) | Eloise Tenant (Slot 1) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 | **Jahra** (Shadow) | Eloise Tenant (Slot 2) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 | **Tix** (Shadow) | Eloise Tenant (Slot 3) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
-| **Carrie** (Dark) | Eloise Tenant (Slot 4) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Magic Source |
+| **Carrie** (Dark) | Eloise Tenant (Slot 4) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 
 ---
 
@@ -118,7 +118,7 @@ At **10M Crystals of Transcendence** (and ~18M+ Stellar Shards), perform the **M
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **LFA** (Aspen - Dark) | **Main Homeowner / Carry** | **V4** | **T5 (Lvl 100)** | **`4/0/0/4`** (Max Active, then Max P3) | **`0*`** | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings** (or Ruyi) |
 | **SQH** (Queen - Abyss) | LFA Tenant (Slot 2) / Buffer | **V4** | **T3 (Lvl 60)** | **`4/0/0/0`** (Max Active) | `0*` | **Speed / Attack** | **Splendid Demon Bell** |
-| **Drake** (Dark) | LFA Tenant (Slot 1) / Debuffer | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Magic Source |
+| **Drake** (Dark) | LFA Tenant (Slot 1) / Debuffer | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 | **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 | **Mockman** (Dark) | LFA Tenant (Slot 4 Temp) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 
