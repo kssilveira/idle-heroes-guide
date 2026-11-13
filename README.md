@@ -114,6 +114,7 @@ At **10M Crystals of Transcendence** (and ~18M+ Stellar Shards), perform the **M
 3. Make **LFA** your permanent **Main Homeowner** in Cloud Island.
 
 * **Active Lineup (Positions 1–6):** **LFA**, Ignis (9\*), **SQH**, Drake, Carrie, Onkirimaru
+* **Speed Order:** **`SQH` > `LFA`** — SQH must act before LFA in Round 1 so her Demon Bell feeds energy and her Active buffs Crit Damage + applies Abyssal Corruption before LFA strikes (remove LFA's boots if LFA's house makes him too fast).
 
 | Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -123,14 +124,13 @@ At **10M Crystals of Transcendence** (and ~18M+ Stellar Shards), perform the **M
 | **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 | **Mockman** (Dark) | LFA Tenant (Slot 4 Temp) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 
-* **Speed Tuning Rule:** When running Demon Bell on SQH, ensure **SQH is faster than LFA** in battle so she buffs team Crit Damage and applies Abyssal Corruption before LFA strikes.
-
 ---
 
 ### Stage 4: 3rd Transcendence Hero — PDE (Month 7.5–10)
 At **15M Crystals of Transcendence**, transcend **Elena (Dark)** into **Phantom Defier - Elena (PDE)**. She replaces Mockman in **Slot 4 of LFA's House**, completing LFA's double-Transcendence tenant core and supercharging LFA's Attack stat.
 
 * **Active Lineup (Positions 1–6):** **LFA**, Ignis (9\*), **SQH**, **PDE**, Drake, Carrie
+* **Speed Order:** **`SQH` > `PDE` > `LFA`** (or at minimum **`SQH` > `LFA`** once LFA's house out-scales PDE's speed) so Demon Bell supports feed energy and buff LFA before he attacks in Round 1.
 
 | Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -147,6 +147,7 @@ At **20M Crystals of Transcendence**, transcend **Betty (Shadow)** into **Therap
 * **Critical Mechanic:** TBB requires her **1\* Core of Origin** active in battle to instantly trigger AoE Twine whenever she gains full energy. She only needs **Tree Level 20 (T1)** to equip her 1\* Core—do not over-invest Stellar Shards into her over LFA's tenants.
 
 * **Active Lineup (Positions 1–6):** **LFA**, **SQH**, **PDE**, **TBB**, Carrie, Drake
+* **Speed Order:** **`SQH` > `LFA`** (TBB's speed does not matter because her `1* Core` + `Illusive Mirror` starts her at 100 Energy and triggers AoE Twine passively after the first action of Round 1).
 
 | Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -165,6 +166,7 @@ At **20M Crystals of Transcendence**, transcend **Betty (Shadow)** into **Therap
 At **25M Crystals of Transcendence**, transcend **Natalie (Light)** into **Doppelganger - Natalia (DGN)**. DGN replicates buffs/shields and dramatically increases LFA's survivability and burst ceiling in Void Campaign Chapters 4–5+.
 
 * **Active Lineup (Positions 1–6):** **LFA**, **SQH**, **PDE**, **TBB**, **DGN**, Carrie
+* **Speed Order:** **`SQH`, `DGN` > `LFA`** — Both Speed-stone Demon Bell supports act before LFA in Round 1 to stack buffs and feed energy before LFA's Active.
 
 | Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -182,6 +184,7 @@ At **25M Crystals of Transcendence**, transcend **Natalie (Light)** into **Doppe
 At **30M Crystals of Transcendence**, transcend **Melissa (Forest)** into **Lady of Blossom Realm - Melissa (LBRM)** to complete your full 6-Transcendence lineup (`LFA + SQH + PDE + TBB + DGN + LBRM`). LBRM cleanses debilitating control/attribute reduction effects and amplifies LFA's damage.
 
 * **Active Lineup (Positions 1–6):** **LFA**, **SQH**, **PDE**, **TBB**, **DGN**, **LBRM**
+* **Speed Order:** **`SQH`, `DGN`, `LBRM` > `LFA`** — All three Speed-stone Demon Bell supports act before LFA in Round 1 to cleanse, buff, and overcharge LFA's energy before he strikes.
 
 | Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
