@@ -1,6 +1,6 @@
 # Idle Heroes F2P Main Path Guide (0 to 6 Transcendence Heroes)
 
-A streamlined, single-path progression guide for Free-to-Play (F2P) players from **Day 1 (0 Heroes)** to **6 Transcendence Heroes**. This guide eliminates conflicting routes and situational setups to focus strictly on the **Eloise $\rightarrow$ Lord of Fear Aspen (LFA)** hyper-carry path.
+A streamlined, single-path progression guide for Free-to-Play (F2P) players from **Day 1 (0 Heroes)** to **6 Transcendence Heroes**. This guide eliminates conflicting routes and situational setups to focus strictly on the **Eloise → Lord of Fear Aspen (LFA)** hyper-carry path.
 
 ---
 
@@ -13,7 +13,7 @@ A streamlined, single-path progression guide for Free-to-Play (F2P) players from
 | **3rd** | — | — | **Waldeck (9\*)** | **Abyss** | Stage 0 | Suicide Bleed & Attack Buff Support |
 | **4th** | — | — | **Tix** | **Shadow** | Stage 0 | Early Burst Support & Eloise Slot 3 Tenant |
 | **5th** | — | — | **Carrie** | **Dark** | Stage 0 | Energy Drain Support & Eloise Slot 4 Tenant |
-| **6th** | — | — | **Onkirimaru** | **Shadow** | Stage 0 | Eloise Slot 1 Tenant $\rightarrow$ Permanent LFA Slot 3 Tenant |
+| **6th** | — | — | **Onkirimaru** | **Shadow** | Stage 0 | Eloise Slot 1 Tenant → Permanent LFA Slot 3 Tenant |
 | **7th** | — | — | **Jahra** | **Shadow** | Stage 1 | Eloise Slot 2 Tenant |
 | **8th** | **GSSW** | Great Sage - Sun Wukong | **Sun Wukong** | **Light** | Stage 2 (1st Trans) | Temporary 1st Trans (Clears VC 1-1-10 for Grimoire; swapped at 2nd Trans) |
 | **9th** | **LFA** | Lord of Fear - Aspen | **Aspen** | **Dark** | Stage 3 (1st/2nd Trans) | Main Carry & Permanent Homeowner (from 2nd Trans onward) |
@@ -29,7 +29,7 @@ A streamlined, single-path progression guide for Free-to-Play (F2P) players from
 
 ## Master Progression Timeline (0 to 6 Trans)
 
-*Note: Crystal of Transcendence (CoT) income accelerates as you unlock Void Campaign, higher Realms Gate Corruption, and higher Void Vortex/Ark tiers (~4.5 months for 1st Trans $\rightarrow$ ~3 months for 2nd Trans $\rightarrow$ ~2–2.5 months per Trans thereafter).*
+*Note: Crystal of Transcendence (CoT) income accelerates as you unlock Void Campaign, higher Realms Gate Corruption, and higher Void Vortex/Ark tiers (~4.5 months for 1st Trans → ~3 months for 2nd Trans → ~2–2.5 months per Trans thereafter).*
 
 | Stage | Timeline | Milestone | Active Lineup (Positions 1 to 6) | Main Homeowner | Tenants (Slots 1 / 2 / 3 / 4) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
