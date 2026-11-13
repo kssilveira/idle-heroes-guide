@@ -6,31 +6,24 @@ A streamlined, single-path progression guide for Free-to-Play (F2P) players from
 
 ## Quick Reference: Heroes & Base Factions
 
-### Transcendence Heroes (Main Path Order)
-
-| Order | Acronym | Transcendence Hero Name | Non-Transcendence Base Hero | Base Faction | Role |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **1st (Temp)** | **GSSW** | Great Sage - Sun Wukong | **Sun Wukong** | **Light** | 1st Trans Support/Carry (Clears VC 1-1-10 to unlock Grimoire; swapped at 2nd Trans) |
-| **1st/2nd (Main)** | **LFA** | Lord of Fear - Aspen | **Aspen** | **Dark** | Main Carry & Permanent Homeowner (from 2nd Trans onward) |
-| **2nd** | **SQH** | Scarlet Queen - Halora | **Queen** | **Abyss** | Primary Damage Buffer & LFA Slot 2 Tenant |
-| **3rd** | **PDE** | Phantom Defier - Elena | **Elena** | **Dark** | Cleanser/Dodge Buffer & LFA Slot 4 Tenant |
-| **4th** | **TBB** | Therapist of Blood - Betty | **Betty** | **Shadow** | Crowd Control (CC) Lockdown Specialist |
-| **5th** | **DGN** | Doppelganger - Natalia | **Natalie** | **Light** | Shield & Damage Replication Buffer |
-| **6th** | **LBRM** | Lady of Blossom Realm - Melissa | **Melissa** | **Forest** | Debuff Cleansing & Damage Amplification Support |
-
-### Non-Transcendence Heroes (Carry, Supports & Tenants)
-
-| Order | Hero Name | Faction | First Used | Role |
-| :--- | :--- | :--- | :--- | :--- |
-| **1st** | **Eloise** | **Shadow** | Stage 0 | Early-Game Main Carry & 1st Homeowner (Swapped at 2nd Trans) |
-| **2nd** | **Ignis (9\*)** | **Abyss** | Stage 0 | Suicide Control Immunity & Energy Feed Support |
-| **3rd** | **Waldeck (9\*)** | **Abyss** | Stage 0 | Suicide Bleed & Attack Buff Support |
-| **4th** | **Tix** | **Shadow** | Stage 0 | Early Burst Support & Eloise Slot 3 Tenant |
-| **5th** | **Carrie** | **Dark** | Stage 0 | Energy Drain Support & Eloise Slot 4 Tenant |
-| **6th** | **Onkirimaru** | **Shadow** | Stage 0 | Eloise Slot 1 Tenant $\rightarrow$ Permanent LFA Slot 3 Tenant |
-| **7th** | **Jahra** | **Shadow** | Stage 1 | Eloise Slot 2 Tenant |
-| **8th** | **Drake** | **Dark** | Stage 3 | Defense Down Debuffer & Permanent LFA Slot 1 Tenant |
-| **9th** | **Mockman** | **Dark** | Stage 3 | Temporary LFA Slot 4 Tenant (Replaced by PDE at 3rd Trans) |
+| Order | Acronym | Transcendence Hero Name | Non-Transcendence Base Hero | Base Faction | First Used | Role |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **1st** | — | — | **Eloise** | **Shadow** | Stage 0 | Early-Game Main Carry & 1st Homeowner (Swapped at 2nd Trans) |
+| **2nd** | — | — | **Ignis (9\*)** | **Abyss** | Stage 0 | Suicide Control Immunity & Energy Feed Support |
+| **3rd** | — | — | **Waldeck (9\*)** | **Abyss** | Stage 0 | Suicide Bleed & Attack Buff Support |
+| **4th** | — | — | **Tix** | **Shadow** | Stage 0 | Early Burst Support & Eloise Slot 3 Tenant |
+| **5th** | — | — | **Carrie** | **Dark** | Stage 0 | Energy Drain Support & Eloise Slot 4 Tenant |
+| **6th** | — | — | **Onkirimaru** | **Shadow** | Stage 0 | Eloise Slot 1 Tenant $\rightarrow$ Permanent LFA Slot 3 Tenant |
+| **7th** | — | — | **Jahra** | **Shadow** | Stage 1 | Eloise Slot 2 Tenant |
+| **8th** | **GSSW** | Great Sage - Sun Wukong | **Sun Wukong** | **Light** | Stage 2 (1st Trans) | Temporary 1st Trans (Clears VC 1-1-10 for Grimoire; swapped at 2nd Trans) |
+| **9th** | **LFA** | Lord of Fear - Aspen | **Aspen** | **Dark** | Stage 3 (1st/2nd Trans) | Main Carry & Permanent Homeowner (from 2nd Trans onward) |
+| **10th** | **SQH** | Scarlet Queen - Halora | **Queen** | **Abyss** | Stage 3 (2nd Trans) | Primary Damage Buffer & LFA Slot 2 Tenant |
+| **11th** | — | — | **Drake** | **Dark** | Stage 3 | Defense Down Debuffer & Permanent LFA Slot 1 Tenant |
+| **12th** | — | — | **Mockman** | **Dark** | Stage 3 | Temporary LFA Slot 4 Tenant (Replaced by PDE at 3rd Trans) |
+| **13th** | **PDE** | Phantom Defier - Elena | **Elena** | **Dark** | Stage 4 (3rd Trans) | Cleanser/Dodge Buffer & LFA Slot 4 Tenant |
+| **14th** | **TBB** | Therapist of Blood - Betty | **Betty** | **Shadow** | Stage 5 (4th Trans) | Crowd Control (CC) Lockdown Specialist |
+| **15th** | **DGN** | Doppelganger - Natalia | **Natalie** | **Light** | Stage 6 (5th Trans) | Shield & Damage Replication Buffer |
+| **16th** | **LBRM** | Lady of Blossom Realm - Melissa | **Melissa** | **Forest** | Stage 7 (6th Trans) | Debuff Cleansing & Damage Amplification Support |
 
 ---
 
