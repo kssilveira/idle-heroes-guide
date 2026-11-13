@@ -86,7 +86,6 @@ Focus 100% of food and copies on building **Eloise to E5** first. Do not build m
 Once Eloise reaches **Void Imprint 4 (V4)**, she unlocks **Cloud Island** as your first Homeowner. Build her 4 Tenants to E5.
 
 * **Active Lineup (Positions 1–6):** Eloise, Ignis (9\*), Waldeck (9\*), Tix, Carrie, Onkirimaru
-* **Eloise Tenants:** Slot 1: Onkirimaru (E5 - Shadow) | Slot 2: Jahra (E5 - Shadow) | Slot 3: Tix (E5 - Shadow) | Slot 4: Carrie (E5 - Dark)
 
 | Hero (Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -102,7 +101,6 @@ Once Eloise reaches **Void Imprint 4 (V4)**, she unlocks **Cloud Island** as you
 At **5M Crystals of Transcendence**, transcend **Sun Wukong (Light)** into **Great Sage - Sun Wukong (GSSW)**. **Keep Eloise as your main Homeowner**—do not move Eloise out of her house yet. Invest Stellar Shards to **V4 + T2 (Lvl 40) GSSW** (rather than V4ing Eloise's non-Trans tenants) so GSSW can clear **Void Campaign 1-1-10** immediately and unlock passive **Primal Grimoire** resource drops.
 
 * **Active Lineup (Positions 1–6):** Eloise, Ignis (9\*), **GSSW**, Waldeck (9\*), Tix, Carrie
-* **Eloise Tenants:** Slot 1: Onkirimaru (E5 - Shadow) | Slot 2: Jahra (E5 - Shadow) | Slot 3: Tix (E5 - Shadow) | Slot 4: Carrie (E5 - Dark)
 
 | Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -122,7 +120,6 @@ At **10M Crystals of Transcendence** (and ~18M+ Stellar Shards), perform the **M
 3. Make **LFA** your permanent **Main Homeowner** in Cloud Island.
 
 * **Active Lineup (Positions 1–6):** **LFA**, Ignis (9\*), **SQH**, Drake, Carrie, Onkirimaru
-* **LFA Tenants:** Slot 1: Drake (E5 - Dark) | Slot 2: **SQH** (Queen - Abyss) | Slot 3: Onkirimaru (E5 - Shadow) | Slot 4: Mockman (E5 - Dark, temporary placeholder until PDE)
 
 | Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -140,7 +137,6 @@ At **10M Crystals of Transcendence** (and ~18M+ Stellar Shards), perform the **M
 At **15M Crystals of Transcendence**, transcend **Elena (Dark)** into **Phantom Defier - Elena (PDE)**. She replaces Mockman in **Slot 4 of LFA's House**, completing LFA's double-Transcendence tenant core and supercharging LFA's Attack stat.
 
 * **Active Lineup (Positions 1–6):** **LFA**, Ignis (9\*), **SQH**, **PDE**, Drake, Carrie
-* **LFA Tenants:** Slot 1: Drake (E5 - Dark) | Slot 2: **SQH** (Queen - Abyss) | Slot 3: Onkirimaru (E5 - Shadow) | Slot 4: **PDE** (Elena - Dark)
 
 | Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -157,7 +153,6 @@ At **20M Crystals of Transcendence**, transcend **Betty (Shadow)** into **Therap
 * **Critical Mechanic:** TBB requires her **1\* Core of Origin** active in battle to instantly trigger AoE Twine whenever she gains full energy. She only needs **Tree Level 20 (T1)** to equip her 1\* Core—do not over-invest Stellar Shards into her over LFA's tenants.
 
 * **Active Lineup (Positions 1–6):** **LFA**, **SQH**, **PDE**, **TBB**, Carrie, Drake
-* **LFA Tenants:** Slot 1: Drake (E5 - Dark) | Slot 2: **SQH** (Queen - Abyss) | Slot 3: Onkirimaru (E5 - Shadow) | Slot 4: **PDE** (Elena - Dark)
 
 | Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -165,6 +160,8 @@ At **20M Crystals of Transcendence**, transcend **Betty (Shadow)** into **Therap
 | **SQH** (Queen - Abyss) | LFA Tenant (Slot 2) | **V4** | **T5 (Lvl 100)** | **`4/0/0/4`** | `0*` | **Speed / Attack** | **Splendid Demon Bell** |
 | **PDE** (Elena - Dark) | LFA Tenant (Slot 4) | **V4** | **T5 (Lvl 100)** | **`1/0/4/4`** (Add Max P3) | `0*` | **Attack / Attack** | **Splendid Demon Bell** |
 | **TBB** (Betty - Shadow) | Crowd Control Lockdown | **V4** | **T1 (Lvl 20)** | **`0/0/0/0`** | **`1*` (Active Core)** | **HP / HP** | **Splendid Ruyi Scepter** (or Mirror) |
+| **Drake** (Dark) | LFA Tenant (Slot 1) | V2 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | V2 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 
 > **Core of Origin Priority:** Get **1\* TBB Core** (4× 50-shard chests / 200 shards) immediately when building TBB and activate it in every Void Campaign wave. Put all other Core chests into **LFA's 3\* Noble Core (600 shards)** so LFA can unlock **Destiny Transition (DT)**.
 
@@ -174,7 +171,6 @@ At **20M Crystals of Transcendence**, transcend **Betty (Shadow)** into **Therap
 At **25M Crystals of Transcendence**, transcend **Natalie (Light)** into **Doppelganger - Natalia (DGN)**. DGN replicates buffs/shields and dramatically increases LFA's survivability and burst ceiling in Void Campaign Chapters 4–5+.
 
 * **Active Lineup (Positions 1–6):** **LFA**, **SQH**, **PDE**, **TBB**, **DGN**, Carrie
-* **LFA Tenants:** Slot 1: Drake (E5 - Dark) | Slot 2: **SQH** (Queen - Abyss) | Slot 3: Onkirimaru (E5 - Shadow) | Slot 4: **PDE** (Elena - Dark)
 
 | Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -183,6 +179,8 @@ At **25M Crystals of Transcendence**, transcend **Natalie (Light)** into **Doppe
 | **PDE** (Elena - Dark) | LFA Tenant (Slot 4) | **V4** | **T5 (Lvl 100)** | **`4/0/4/4`** | `0*` | **Attack / Attack** | **Splendid Demon Bell** |
 | **TBB** (Betty - Shadow) | Crowd Control Lockdown | **V4** | **T1 (Lvl 20)** | **`1/0/0/0`** | **`1*` (Active in VC)** | **HP / HP** | **Splendid Illusive Mirror / Ruyi** |
 | **DGN** (Natalie - Light) | Buffer / Shield Replicator | **V4** | **T5 (Lvl 100)** | **`1/0/0/4`** (1 Active, Max P3) | `0*` | **Speed / HP** | **Splendid Demon Bell** |
+| **Drake** (Dark) | LFA Tenant (Slot 1) | V3 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | V3 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 
 ---
 
@@ -190,7 +188,6 @@ At **25M Crystals of Transcendence**, transcend **Natalie (Light)** into **Doppe
 At **30M Crystals of Transcendence**, transcend **Melissa (Forest)** into **Lady of Blossom Realm - Melissa (LBRM)** to complete your full 6-Transcendence lineup (`LFA + SQH + PDE + TBB + DGN + LBRM`). LBRM cleanses debilitating control/attribute reduction effects and amplifies LFA's damage.
 
 * **Active Lineup (Positions 1–6):** **LFA**, **SQH**, **PDE**, **TBB**, **DGN**, **LBRM**
-* **LFA Tenants:** Slot 1: Drake (E5 - Dark) | Slot 2: **SQH** (Queen - Abyss) | Slot 3: Onkirimaru (E5 - Shadow) | Slot 4: **PDE** (Elena - Dark)
 
 | Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -200,6 +197,8 @@ At **30M Crystals of Transcendence**, transcend **Melissa (Forest)** into **Lady
 | **TBB** (Betty - Shadow) | Crowd Control Lockdown | **V4** | **T1 (Lvl 20)** | **`1/0/0/0`** | **`1*`** | **HP / HP** | **Splendid Illusive Mirror** |
 | **DGN** (Natalie - Light) | Buffer / Shield Support | **V4** | **T5 (Lvl 100)** | **`4/0/4/4`** | `0*` | **Speed / HP** | **Splendid Demon Bell** |
 | **LBRM** (Melissa - Forest) | Cleanser / Damage Amp | **V4** | **T5 (Lvl 100)** | **`1/0/0/4`** (1 Active, Max P3) | `0*` | **Speed / HP** | **Splendid Ruyi / Demon Bell** |
+| **Drake** (Dark) | LFA Tenant (Slot 1) | V4 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
+| **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | V4 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 
 ---
 
