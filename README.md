@@ -39,7 +39,7 @@ A streamlined, single-path progression guide for Free-to-Play (F2P) players from
 | Stage | Timeline | Milestone | Active Lineup (6 Heroes) | Main Homeowner |
 | :--- | :--- | :--- | :--- | :--- |
 | **Stage 0** | Month 0–1 | First E5 Carry | Eloise, Ignis (9\*), Waldeck (9\*), Tix, Carrie, Onkirimaru | None |
-| **Stage 1** | Month 1–3 | Pre-Trans Cloud Island | Eloise, Ignis (9\*), Waldeck (9\*), Tix, Carrie, Drake | **Eloise** |
+| **Stage 1** | Month 1–3 | Pre-Trans Cloud Island | Eloise, Ignis (9\*), Waldeck (9\*), Tix, Carrie, Onkirimaru | **Eloise** |
 | **Stage 2** | Month 3–5 | **1st Trans Hero** (5M CoT) | Eloise, **HHA**, Ignis (9\*), Waldeck (9\*), Tix, Carrie | **Eloise** |
 | **Stage 3** | Month 6–8 | **2nd Trans Pivot** (10M CoT) | **LFA**, **SQH**, Ignis (9\*), Drake, Carrie, Onkirimaru | **LFA** |
 | **Stage 4** | Month 9–11 | **3rd Trans Hero** (15M CoT) | **LFA**, **SQH**, **PDE**, Drake, Carrie, Ignis (9\*) | **LFA** |
