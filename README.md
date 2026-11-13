@@ -36,16 +36,16 @@ A streamlined, single-path progression guide for Free-to-Play (F2P) players from
 
 ## Master Progression Timeline (0 to 6 Trans)
 
-| Stage | Timeline | Milestone | Active Lineup (6 Heroes) | Main Homeowner |
-| :--- | :--- | :--- | :--- | :--- |
-| **Stage 0** | Month 0–1 | First E5 Carry | Eloise, Ignis (9\*), Waldeck (9\*), Tix, Carrie, Onkirimaru | None |
-| **Stage 1** | Month 1–3 | Pre-Trans Cloud Island | Eloise, Ignis (9\*), Waldeck (9\*), Tix, Carrie, Onkirimaru | **Eloise** |
-| **Stage 2** | Month 3–5 | **1st Trans Hero** (5M CoT) | Eloise, **HHA**, Ignis (9\*), Waldeck (9\*), Tix, Carrie | **Eloise** |
-| **Stage 3** | Month 6–8 | **2nd Trans Pivot** (10M CoT) | **LFA**, **SQH**, Ignis (9\*), Drake, Carrie, Onkirimaru | **LFA** |
-| **Stage 4** | Month 9–11 | **3rd Trans Hero** (15M CoT) | **LFA**, **SQH**, **PDE**, Drake, Carrie, Ignis (9\*) | **LFA** |
-| **Stage 5** | Month 12–15 | **4th Trans Hero** (20M CoT) | **LFA**, **SQH**, **PDE**, **TBB**, Carrie, Drake | **LFA** |
-| **Stage 6** | Month 15–18 | **5th Trans Hero** (25M CoT) | **LFA**, **SQH**, **PDE**, **TBB**, **DGN**, Carrie | **LFA** |
-| **Stage 7** | Month 18–22 | **6th Trans Hero** (30M CoT) | **LFA**, **SQH**, **PDE**, **TBB**, **DGN**, **LBRM** | **LFA** |
+| Stage | Timeline | Milestone | Active Lineup (6 Heroes) | Main Homeowner | Tenants (Slots 1 / 2 / 3 / 4) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Stage 0** | Month 0–1 | First E5 Carry | Eloise, Ignis (9\*), Waldeck (9\*), Tix, Carrie, Onkirimaru | None | None |
+| **Stage 1** | Month 1–3 | Pre-Trans Cloud Island | Eloise, Ignis (9\*), Waldeck (9\*), Tix, Carrie, Onkirimaru | **Eloise** | Onkirimaru / Jahra / Tix / Carrie |
+| **Stage 2** | Month 3–5 | **1st Trans Hero** (5M CoT) | Eloise, **HHA**, Ignis (9\*), Waldeck (9\*), Tix, Carrie | **Eloise** | Onkirimaru / Jahra / Tix / Carrie |
+| **Stage 3** | Month 6–8 | **2nd Trans Pivot** (10M CoT) | **LFA**, **SQH**, Ignis (9\*), Drake, Carrie, Onkirimaru | **LFA** | Drake / **SQH** / Onkirimaru / Mockman |
+| **Stage 4** | Month 9–11 | **3rd Trans Hero** (15M CoT) | **LFA**, **SQH**, **PDE**, Drake, Carrie, Ignis (9\*) | **LFA** | Drake / **SQH** / Onkirimaru / **PDE** |
+| **Stage 5** | Month 12–15 | **4th Trans Hero** (20M CoT) | **LFA**, **SQH**, **PDE**, **TBB**, Carrie, Drake | **LFA** | Drake / **SQH** / Onkirimaru / **PDE** |
+| **Stage 6** | Month 15–18 | **5th Trans Hero** (25M CoT) | **LFA**, **SQH**, **PDE**, **TBB**, **DGN**, Carrie | **LFA** | Drake / **SQH** / Onkirimaru / **PDE** |
+| **Stage 7** | Month 18–22 | **6th Trans Hero** (30M CoT) | **LFA**, **SQH**, **PDE**, **TBB**, **DGN**, **LBRM** | **LFA** | Drake / **SQH** / Onkirimaru / **PDE** |
 
 > **Golden Resource Rule:** Always choose **Stellar Shards** over **Crystals of Transcendence (CoT)** from every chest and event. Never convert Spheres of Transcendence into CoT—always convert Spheres into **Stellar Shards**.
 
@@ -69,6 +69,7 @@ Build Mysterious (P2W) Artifacts to **Splendid (3\*, 4 copies merged)** in this 
 ### Stage 0: Early Game Foundation (Month 0–1)
 Focus 100% of food and copies on building **Eloise to E5** first. Do not build multiple heroes simultaneously.
 
+* **Active Lineup (6 Heroes):** Eloise, Ignis (9\*), Waldeck (9\*), Tix, Carrie, Onkirimaru
 * **Build Order:**
   1. **Eloise (E5 - Shadow)** — Unlocks Void Gate and carries Seal Land 20 Shadow.
   2. **Ignis (9\* Level 100 - Abyss)** — Naked (no gear) suicide support placed directly behind Eloise for Control Immunity and Energy feed on death. **Do not upgrade past 9\*.**
@@ -80,6 +81,9 @@ Focus 100% of food and copies on building **Eloise to E5** first. Do not build m
 ### Stage 1: Pre-Transcendence Cloud Island (Month 1–3)
 Once Eloise reaches **Void Imprint 4 (V4)**, she unlocks **Cloud Island** as your first Homeowner. Build her 4 Tenants to E5.
 
+* **Active Lineup (6 Heroes):** Eloise, Ignis (9\*), Waldeck (9\*), Tix, Carrie, Onkirimaru
+* **Eloise Tenants:** Slot 1: Onkirimaru (E5 - Shadow) | Slot 2: Jahra (E5 - Shadow) | Slot 3: Tix (E5 - Shadow) | Slot 4: Carrie (E5 - Dark)
+
 | Hero (Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Eloise** (Shadow) | Homeowner / Tank | **V4** | **T3 (Lvl 60)** | `0/0/0/0` (Spiritual Essence only) | `0*` | **HP / Attack** | **Base Golden Crown** |
@@ -88,16 +92,13 @@ Once Eloise reaches **Void Imprint 4 (V4)**, she unlocks **Cloud Island** as you
 | **Tix** (Shadow) | Tenant (Slot 3) / Burst | V0 (E5) | T0 | `0/0/0/0` | `0*` | Crit / Crit / Atk | Melodic Strings |
 | **Carrie** (Dark) | Tenant (Slot 4) / Energy Drain | V0 (E5) | T0 | `0/0/0/0` | `0*` | HP / HP | Magic Source |
 
-* **Eloise Tenants:**
-  * **Slot 1:** Onkirimaru (E5 - Shadow)
-  * **Slot 2:** Jahra (E5 - Shadow)
-  * **Slot 3:** Tix (E5 - Shadow)
-  * **Slot 4:** Carrie (E5 - Dark)
-
 ---
 
 ### Stage 2: 1st Transcendence Hero — HHA (Month 3–5)
 At **5M Crystals of Transcendence**, transcend **Aylamak (Fortress)** into **Hyperspace Hunter - Aylamak (HHA)**. **Keep Eloise as your main Homeowner**—do not move Eloise out of her house yet, as a fully tenanted V4/T3 Eloise with HHA shielding her clears further than a solo 1-Trans homeowner.
+
+* **Active Lineup (6 Heroes):** Eloise, **HHA**, Ignis (9\*), Waldeck (9\*), Tix, Carrie
+* **Eloise Tenants:** Slot 1: Onkirimaru (E5 - Shadow) | Slot 2: Jahra (E5 - Shadow) | Slot 3: Tix (E5 - Shadow) | Slot 4: Carrie (E5 - Dark)
 
 | Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -116,6 +117,9 @@ At **10M Crystals of Transcendence** (and ~18M+ Stellar Shards), perform the **M
 2. Transcend **Aspen (Dark)** into **Lord of Fear - Aspen (LFA)** and **Queen (Abyss)** into **Scarlet Queen - Halora (SQH)**.
 3. Make **LFA** your permanent **Main Homeowner** in Cloud Island and unlock **Void Campaign**.
 
+* **Active Lineup (6 Heroes):** **LFA**, **SQH**, Ignis (9\*), Drake, Carrie, Onkirimaru
+* **LFA Tenants:** Slot 1: Drake (E5 - Dark) | Slot 2: **SQH** (Queen - Abyss) | Slot 3: Onkirimaru (E5 - Shadow) | Slot 4: Mockman (E5 - Dark, temporary placeholder until PDE)
+
 | Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **LFA** (Aspen - Dark) | **Main Homeowner / Carry** | **V4** | **T5 (Lvl 100)** | **`4/0/0/4`** (Max Active, then Max P3) | **`0*`** | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings** (or Ruyi) |
@@ -124,17 +128,15 @@ At **10M Crystals of Transcendence** (and ~18M+ Stellar Shards), perform the **M
 | **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | V0 (E5) | T0 | `0/0/0/0` | `0*` | Attack / Attack | Highest Attack Artifact |
 | **Mockman** (Dark) | LFA Tenant (Slot 4 Temp) | V0 (E5) | T0 | `0/0/0/0` | `0*` | Attack / Attack | Highest Attack Artifact |
 
-* **LFA Tenants (Stage 3):**
-  * **Slot 1:** Drake (E5 - Dark)
-  * **Slot 2:** **SQH** (Queen - Abyss, Transcendence)
-  * **Slot 3:** Onkirimaru (E5 - Shadow)
-  * **Slot 4:** Mockman (E5 - Dark, temporary placeholder until PDE is built)
 * **Speed Tuning Rule:** When running Demon Bell on SQH, ensure **SQH is faster than LFA** in battle so she buffs team Crit Damage and applies Abyssal Corruption before LFA strikes.
 
 ---
 
 ### Stage 4: 3rd Transcendence Hero — PDE (Month 9–11)
 At **15M Crystals of Transcendence**, transcend **Elena (Dark)** into **Phantom Defier - Elena (PDE)**. She replaces Mockman in **Slot 4 of LFA's House**, completing LFA's double-Transcendence tenant core and supercharging LFA's Attack stat.
+
+* **Active Lineup (6 Heroes):** **LFA**, **SQH**, **PDE**, Drake, Carrie, Ignis (9\*)
+* **LFA Tenants:** Slot 1: Drake (E5 - Dark) | Slot 2: **SQH** (Queen - Abyss) | Slot 3: Onkirimaru (E5 - Shadow) | Slot 4: **PDE** (Elena - Dark)
 
 | Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -144,17 +146,14 @@ At **15M Crystals of Transcendence**, transcend **Elena (Dark)** into **Phantom 
 | **Drake** (Dark) | LFA Tenant (Slot 1) | V1 | T0 | `0/0/0/0` | `0*` | Attack / Attack | Highest Attack Artifact |
 | **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | V1 | T0 | `0/0/0/0` | `0*` | Attack / Attack | Highest Attack Artifact |
 
-* **LFA Tenants (Permanent from Stage 4+):**
-  * **Slot 1:** Drake (E5 - Dark) *(or normal E5 Aspen purely for tenant stats)*
-  * **Slot 2:** **SQH** (Queen - Abyss, Transcendence)
-  * **Slot 3:** Onkirimaru (E5 - Shadow)
-  * **Slot 4:** **PDE** (Elena - Dark, Transcendence)
-
 ---
 
 ### Stage 5: 4th Transcendence Hero — TBB (Month 12–15)
 At **20M Crystals of Transcendence**, transcend **Betty (Shadow)** into **Therapist of Blood - Betty (TBB)**. TBB is the ultimate Crowd Control hero in Void Campaign.
 * **Critical Mechanic:** TBB requires her **1\* Core of Origin** active in battle to instantly trigger AoE Twine whenever she gains full energy. She only needs **Tree Level 20 (T1)** to equip her 1\* Core—do not over-invest Stellar Shards into her over LFA's tenants.
+
+* **Active Lineup (6 Heroes):** **LFA**, **SQH**, **PDE**, **TBB**, Carrie, Drake
+* **LFA Tenants:** Slot 1: Drake (E5 - Dark) | Slot 2: **SQH** (Queen - Abyss) | Slot 3: Onkirimaru (E5 - Shadow) | Slot 4: **PDE** (Elena - Dark)
 
 | Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -170,6 +169,9 @@ At **20M Crystals of Transcendence**, transcend **Betty (Shadow)** into **Therap
 ### Stage 6: 5th Transcendence Hero — DGN (Month 15–18)
 At **25M Crystals of Transcendence**, transcend **Natalie (Light)** into **Doppelganger - Natalia (DGN)**. DGN replicates buffs/shields and dramatically increases LFA's survivability and burst ceiling in Void Campaign Chapters 4–5+.
 
+* **Active Lineup (6 Heroes):** **LFA**, **SQH**, **PDE**, **TBB**, **DGN**, Carrie
+* **LFA Tenants:** Slot 1: Drake (E5 - Dark) | Slot 2: **SQH** (Queen - Abyss) | Slot 3: Onkirimaru (E5 - Shadow) | Slot 4: **PDE** (Elena - Dark)
+
 | Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **LFA** (Aspen - Dark) | **Main Homeowner (DT)** | **V4** | **T5 (Lvl 120)** | **`4/4/4/4`** | **`3*` (Destiny Transition)** | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings / Antlers** |
@@ -182,6 +184,9 @@ At **25M Crystals of Transcendence**, transcend **Natalie (Light)** into **Doppe
 
 ### Stage 7: 6th Transcendence Hero — LBRM (Month 18–22)
 At **30M Crystals of Transcendence**, transcend **Melissa (Forest)** into **Lady of Blossom Realm - Melissa (LBRM)** to complete your full 6-Transcendence lineup (`LFA + SQH + PDE + TBB + DGN + LBRM`). LBRM cleanses debilitating control/attribute reduction effects and amplifies LFA's damage.
+
+* **Active Lineup (6 Heroes):** **LFA**, **SQH**, **PDE**, **TBB**, **DGN**, **LBRM**
+* **LFA Tenants:** Slot 1: Drake (E5 - Dark) | Slot 2: **SQH** (Queen - Abyss) | Slot 3: Onkirimaru (E5 - Shadow) | Slot 4: **PDE** (Elena - Dark)
 
 | Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
