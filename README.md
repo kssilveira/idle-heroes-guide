@@ -29,7 +29,6 @@ A streamlined, single-path progression guide for Free-to-Play (F2P) players from
 | **Carrie** | **Dark** | Energy Drain Support & Eloise Slot 4 Tenant ($\rightarrow$ LFA Slot 2 Temp) |
 | **Ignis (9\*)** | **Abyss** | Suicide Control Immunity & Energy Feed Support |
 | **Waldeck (9\*)** | **Abyss** | Suicide Bleed & Attack Buff Support |
-| **Holmes Young** | **Fortress** | Early-Game Crowd Control (Dove) Support |
 | **Drake** | **Dark** | Defense Down Debuffer & Permanent LFA Slot 1 Tenant |
 | **Mockman** | **Dark** | Temporary LFA Slot 4 Tenant (Replaced by PDE at 3rd Trans) |
 
@@ -39,7 +38,7 @@ A streamlined, single-path progression guide for Free-to-Play (F2P) players from
 
 | Stage | Timeline | Milestone | Active Lineup (6 Heroes) | Main Homeowner |
 | :--- | :--- | :--- | :--- | :--- |
-| **Stage 0** | Month 0–1 | First E5 Carry | Eloise, Ignis (9\*), Waldeck (9\*), Tix, Carrie, Holmes Young | None |
+| **Stage 0** | Month 0–1 | First E5 Carry | Eloise, Ignis (9\*), Waldeck (9\*), Tix, Carrie, Onkirimaru | None |
 | **Stage 1** | Month 1–3 | Pre-Trans Cloud Island | Eloise, Ignis (9\*), Waldeck (9\*), Tix, Carrie, Drake | **Eloise** |
 | **Stage 2** | Month 3–5 | **1st Trans Hero** (5M CoT) | Eloise, **HHA**, Ignis (9\*), Waldeck (9\*), Tix, Carrie | **Eloise** |
 | **Stage 3** | Month 6–8 | **2nd Trans Pivot** (10M CoT) | **LFA**, **SQH**, Ignis (9\*), Drake, Carrie, Onkirimaru | **LFA** |
