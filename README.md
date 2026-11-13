@@ -8,7 +8,7 @@ A streamlined, single-path progression guide for Free-to-Play (F2P) players from
 
 | Order | Acronym | Transcendence Hero Name | Non-Transcendence Base Hero | Base Faction | First Used | Role |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1st** | — | — | **Eloise** | **Shadow** | Stage 0 | Early-Game Main Carry & 1st Homeowner (Swapped at 2nd Trans) |
+| **1st** | — | — | **Eloise** | **Shadow** | Stage 0 | Early-Game Main Tank-Carry & 1st Homeowner (Swapped at 2nd Trans) |
 | **2nd** | — | — | **Ignis (9\*)** | **Abyss** | Stage 0 | Suicide Control Immunity & Energy Feed Support |
 | **3rd** | — | — | **Waldeck (9\*)** | **Abyss** | Stage 0 | Suicide Bleed & Attack Buff Support |
 | **4th** | — | — | **Tix** | **Shadow** | Stage 0 | Early Burst Support & Eloise Slot 3 Tenant |
@@ -83,7 +83,7 @@ Once Eloise reaches **Void Imprint 4 (V4)**, she unlocks **Cloud Island** as you
 
 | Hero (Faction) | Role | Enables | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Eloise** (Shadow) | Homeowner / Tank | `1-1-4-1-2` | **V4** | **T3 (Lvl 60)** | `0/0/0/0` (Spiritual Essence only) | `0*` | **HP / Attack** | **Base Golden Crown** |
+| **Eloise** (Shadow) | **Main Homeowner / Tank-Carry** | `1-1-4-1-2` | **V4** | **T3 (Lvl 60)** | `0/0/0/0` (Spiritual Essence only) | `0*` | **HP / Attack** | **Base Golden Crown** |
 | **Onkirimaru** (Shadow) | Tenant (Slot 1) | `2-2-4-2-2` | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 | **Jahra** (Shadow) | Tenant (Slot 2) | `2-2-4-2-2` | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 | **Tix** (Shadow) | Tenant (Slot 3) / Burst | `2-2-4-2-2` | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | **Splendid Melodic Strings** |
@@ -98,7 +98,7 @@ At **5M Crystals of Transcendence**, transcend **Sun Wukong (Light)** into **Gre
 
 | Hero (Base / Faction) | Role | Enables | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Eloise** (Shadow) | Homeowner / Carry | `1-1-4-1-2` | **V4** | **T3 (Lvl 60)** | `0/0/0/0` | `0*` | **HP / Attack** | **Base Golden Crown** |
+| **Eloise** (Shadow) | **Main Homeowner / Tank-Carry** | `1-1-4-1-2` | **V4** | **T3 (Lvl 60)** | `0/0/0/0` | `0*` | **HP / Attack** | **Base Golden Crown** |
 | **GSSW** (Sun Wukong - Light) | 1st Trans / CC & Shielder | `2-2-4-2-2` | **V4** | **T2 (Lvl 40)** | `0/0/0/0` | `0*` | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings** |
 | **Onkirimaru** (Shadow) | Eloise Tenant (Slot 1) | `2-2-4-2-2` | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 | **Jahra** (Shadow) | Eloise Tenant (Slot 2) | `2-2-4-2-2` | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
@@ -227,7 +227,7 @@ Unlocking **Destiny Transition (DT)** on a hero requires **Tree Level 120 (T5)**
 All heroes use **`4` (CC Purify)** in `E3` and **`2` (Unbending Will)** in `E5`:
 * **`2-2-4-2-2` (Carry & Pure Tenants — `LFA`, `GSSW`, `Onkirimaru`, `Jahra`, `Tix`, `Carrie`, `Drake`, `Mockman`):** `+8% Atk` / `+12% Extra Dmg` / `CC Purify` / `+8% Atk` / `Unbending Will`
 * **`3-1-4-3-2` (Speed Supports — `SQH`, `PDE`, `DGN`, `LBRM`):** `+6% HP, +4% Atk, +20 Spd` / `-15% Crit Dmg Received` / `CC Purify` / `+6% HP, +4% Atk, +20 Spd` / `Unbending Will`
-* **`1-1-4-1-2` (HP Tank & CC — `Eloise`, `TBB`):** `+12% HP` / `-15% Crit Dmg Received` / `CC Purify` / `+12% HP` / `Unbending Will`
+* **`1-1-4-1-2` (Tank-Carry & CC — `Eloise`, `TBB`):** `+12% HP` / `-15% Crit Dmg Received` / `CC Purify` / `+12% HP` / `Unbending Will`
 
 | Tier | `1` | `2` | `3` | `4` | `5` | `6` |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
