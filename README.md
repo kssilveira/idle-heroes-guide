@@ -48,14 +48,15 @@ A streamlined, single-path progression guide for Free-to-Play (F2P) players from
 
 ## Master Artifact Build Order
 
-Build Mysterious (P2W) Artifacts to **Splendid (3\*, 4 copies merged)** in this exact order:
+Build Mysterious (P2W) Artifacts to **Splendid (3\*, 4 copies merged)** in this exact stage-aligned order:
 
-1. **1× Base Golden Crown** (1 copy only) — For Eloise survivability early on.
-2. **1× Splendid Melodic Strings** (4 copies) — Primary burst artifact for Eloise, then LFA.
-3. **1× Splendid Ruyi Scepter** (4 copies) — Control & speed artifact for LFA, later shared with TBB.
-4. **3× Splendid Demon Bells** (12 copies total) — Energy feed on supports (SQH, PDE, DGN) so LFA casts an overcharged Active in Round 1.
-5. **1× Splendid Illusive Mirror** (4 copies) — Speed + Energy feed for TBB/supports.
-6. **1× Splendid Antlers Cane** (4 copies) — Boss damage artifact for LFA in long fights.
+1. **Stage 1 — 1× Base Golden Crown** (1 copy only) — Equipped on **Eloise** (Stages 1–2).
+2. **Stage 1–2 — 1× Splendid Melodic Strings** (4 copies) — Equipped on **Tix** (Stage 1) → **GSSW** (Stage 2) → **LFA** (Stages 3–7).
+3. **Stage 3 — 1st Splendid Demon Bell** (4 copies) — Equipped on **SQH** (Stages 3–7) for Round 1 energy feed.
+4. **Stage 4 — 2nd Splendid Demon Bell** (4 copies) — Equipped on **PDE** (Stages 4–7) for Round 1 energy feed.
+5. **Stage 5 — 1× Splendid Ruyi Scepter** (4 copies) — Equipped on **TBB** (Stage 5) → **LBRM** (Stage 7) for Control Offset & Speed.
+6. **Stage 6 — 1× Splendid Illusive Mirror** (4 copies) — Equipped on **TBB** (Stages 6–7) for instant energy + AoE Twine CC.
+7. **Stage 6 — 3rd Splendid Demon Bell** (4 copies) — Equipped on **DGN** (Stages 6–7) for Round 1 energy feed.
 
 ---
 
@@ -85,7 +86,7 @@ Once Eloise reaches **Void Imprint 4 (V4)**, she unlocks **Cloud Island** as you
 | **Eloise** (Shadow) | Homeowner / Tank | **V4** | **T3 (Lvl 60)** | `0/0/0/0` (Spiritual Essence only) | `0*` | **HP / Attack** | **Base Golden Crown** |
 | **Onkirimaru** (Shadow) | Tenant (Slot 1) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 | **Jahra** (Shadow) | Tenant (Slot 2) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
-| **Tix** (Shadow) | Tenant (Slot 3) / Burst | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Melodic Strings |
+| **Tix** (Shadow) | Tenant (Slot 3) / Burst | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | **Splendid Melodic Strings** |
 | **Carrie** (Dark) | Tenant (Slot 4) / Energy Drain | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 
 ---
@@ -116,7 +117,7 @@ At **10M Crystals of Transcendence** (and ~18M+ Stellar Shards), perform the **M
 
 | Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **LFA** (Aspen - Dark) | **Main Homeowner / Carry** | **V4** | **T5 (Lvl 100)** | **`4/0/0/4`** (Max Active, then Max P3) | **`0*`** | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings** (or Ruyi) |
+| **LFA** (Aspen - Dark) | **Main Homeowner / Carry** | **V4** | **T5 (Lvl 100)** | **`4/0/0/4`** (Max Active, then Max P3) | **`0*`** | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings** |
 | **SQH** (Queen - Abyss) | LFA Tenant (Slot 2) / Buffer | **V4** | **T3 (Lvl 60)** | **`4/0/0/0`** (Max Active) | `0*` | **Speed / Attack** | **Splendid Demon Bell** |
 | **Drake** (Dark) | LFA Tenant (Slot 1) / Debuffer | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 | **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | V0 (E5) | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
@@ -152,7 +153,7 @@ At **20M Crystals of Transcendence**, transcend **Betty (Shadow)** into **Therap
 | **LFA** (Aspen - Dark) | **Main Homeowner / Carry** | **V4** | **T5 (Lvl 120)** | **`4/4/4/4` (Full Sublimation)** | **`3*` (Noble / DT)** | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings** |
 | **SQH** (Queen - Abyss) | LFA Tenant (Slot 2) | **V4** | **T5 (Lvl 100)** | **`4/0/0/4`** | `0*` | **Speed / Attack** | **Splendid Demon Bell** |
 | **PDE** (Elena - Dark) | LFA Tenant (Slot 4) | **V4** | **T5 (Lvl 100)** | **`1/0/4/4`** (Add Max P3) | `0*` | **Attack / Attack** | **Splendid Demon Bell** |
-| **TBB** (Betty - Shadow) | Crowd Control Lockdown | **V4** | **T1 (Lvl 20)** | **`0/0/0/0`** | **`1*` (Active Core)** | **HP / HP** | **Splendid Ruyi Scepter** (or Mirror) |
+| **TBB** (Betty - Shadow) | Crowd Control Lockdown | **V4** | **T1 (Lvl 20)** | **`0/0/0/0`** | **`1*` (Active Core)** | **HP / HP** | **Splendid Ruyi Scepter** |
 | **Drake** (Dark) | LFA Tenant (Slot 1) | V2 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 | **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | V2 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 
@@ -167,10 +168,10 @@ At **25M Crystals of Transcendence**, transcend **Natalie (Light)** into **Doppe
 
 | Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **LFA** (Aspen - Dark) | **Main Homeowner (DT)** | **V4** | **T5 (Lvl 120)** | **`4/4/4/4`** | **`3*` (Destiny Transition)** | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings / Antlers** |
+| **LFA** (Aspen - Dark) | **Main Homeowner (DT)** | **V4** | **T5 (Lvl 120)** | **`4/4/4/4`** | **`3*` (Destiny Transition)** | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings** |
 | **SQH** (Queen - Abyss) | LFA Tenant (Slot 2) | **V4** | **T5 (Lvl 120)** | **`4/0/4/4`** | **`3*` (2nd DT Target)** | **Speed / Attack** | **Splendid Demon Bell** |
 | **PDE** (Elena - Dark) | LFA Tenant (Slot 4) | **V4** | **T5 (Lvl 100)** | **`4/0/4/4`** | `0*` | **Attack / Attack** | **Splendid Demon Bell** |
-| **TBB** (Betty - Shadow) | Crowd Control Lockdown | **V4** | **T1 (Lvl 20)** | **`1/0/0/0`** | **`1*` (Active in VC)** | **HP / HP** | **Splendid Illusive Mirror / Ruyi** |
+| **TBB** (Betty - Shadow) | Crowd Control Lockdown | **V4** | **T1 (Lvl 20)** | **`1/0/0/0`** | **`1*` (Active in VC)** | **HP / HP** | **Splendid Illusive Mirror** |
 | **DGN** (Natalie - Light) | Buffer / Shield Replicator | **V4** | **T5 (Lvl 100)** | **`1/0/0/4`** (1 Active, Max P3) | `0*` | **Speed / HP** | **Splendid Demon Bell** |
 | **Drake** (Dark) | LFA Tenant (Slot 1) | V3 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 | **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | V3 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
@@ -184,12 +185,12 @@ At **30M Crystals of Transcendence**, transcend **Melissa (Forest)** into **Lady
 
 | Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **LFA** (Aspen - Dark) | **Main Homeowner (DT)** | **V4** | **T5 (Lvl 120)** | **`4/4/4/4`** | **`3*` (DT)** | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings / Antlers** |
+| **LFA** (Aspen - Dark) | **Main Homeowner (DT)** | **V4** | **T5 (Lvl 120)** | **`4/4/4/4`** | **`3*` (DT)** | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings** |
 | **SQH** (Queen - Abyss) | LFA Tenant (Slot 2) (DT) | **V4** | **T5 (Lvl 120)** | **`4/0/4/4`** | **`3*` (DT)** | **Speed / Attack** | **Splendid Demon Bell** |
 | **PDE** (Elena - Dark) | LFA Tenant (Slot 4) (DT) | **V4** | **T5 (Lvl 120)** | **`4/0/4/4`** | **`3*` (3rd DT Target)** | **Attack / Attack** | **Splendid Demon Bell** |
 | **TBB** (Betty - Shadow) | Crowd Control Lockdown | **V4** | **T1 (Lvl 20)** | **`1/0/0/0`** | **`1*`** | **HP / HP** | **Splendid Illusive Mirror** |
 | **DGN** (Natalie - Light) | Buffer / Shield Support | **V4** | **T5 (Lvl 100)** | **`4/0/4/4`** | `0*` | **Speed / HP** | **Splendid Demon Bell** |
-| **LBRM** (Melissa - Forest) | Cleanser / Damage Amp | **V4** | **T5 (Lvl 100)** | **`1/0/0/4`** (1 Active, Max P3) | `0*` | **Speed / HP** | **Splendid Ruyi / Demon Bell** |
+| **LBRM** (Melissa - Forest) | Cleanser / Damage Amp | **V4** | **T5 (Lvl 100)** | **`1/0/0/4`** (1 Active, Max P3) | `0*` | **Speed / HP** | **Splendid Ruyi Scepter** |
 | **Drake** (Dark) | LFA Tenant (Slot 1) | V4 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 | **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | V4 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 
