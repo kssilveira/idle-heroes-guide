@@ -26,7 +26,7 @@ A streamlined, single-path progression guide for Free-to-Play (F2P) players from
 | **2nd** | **Ignis (9\*)** | **Abyss** | Stage 0 | Suicide Control Immunity & Energy Feed Support |
 | **3rd** | **Waldeck (9\*)** | **Abyss** | Stage 0 | Suicide Bleed & Attack Buff Support |
 | **4th** | **Tix** | **Shadow** | Stage 0 | Early Burst Support & Eloise Slot 3 Tenant |
-| **5th** | **Carrie** | **Dark** | Stage 0 | Energy Drain Support & Eloise Slot 4 Tenant ($\rightarrow$ LFA Slot 2 Temp) |
+| **5th** | **Carrie** | **Dark** | Stage 0 | Energy Drain Support & Eloise Slot 4 Tenant |
 | **6th** | **Onkirimaru** | **Shadow** | Stage 0 | Eloise Slot 1 Tenant $\rightarrow$ Permanent LFA Slot 3 Tenant |
 | **7th** | **Jahra** | **Shadow** | Stage 1 | Eloise Slot 2 Tenant |
 | **8th** | **Drake** | **Dark** | Stage 3 | Defense Down Debuffer & Permanent LFA Slot 1 Tenant |
