@@ -23,13 +23,13 @@ A streamlined, single-path progression guide for Free-to-Play (F2P) players from
 | Hero Name | Faction | Role |
 | :--- | :--- | :--- |
 | **Eloise** | **Shadow** | Early-Game Main Carry & 1st Homeowner (Swapped at 2nd Trans) |
-| **Tix** | **Shadow** | Early Burst Support & Eloise Slot 3 Tenant |
 | **Onkirimaru** | **Shadow** | Eloise Slot 1 Tenant $\rightarrow$ Permanent LFA Slot 3 Tenant |
-| **Jahra** | **Shadow** | Eloise Slot 4 Tenant |
+| **Jahra** | **Shadow** | Eloise Slot 2 Tenant |
+| **Tix** | **Shadow** | Early Burst Support & Eloise Slot 3 Tenant |
+| **Carrie** | **Dark** | Energy Drain Support & Eloise Slot 4 Tenant ($\rightarrow$ LFA Slot 2 Temp) |
 | **Ignis (9\*)** | **Abyss** | Suicide Control Immunity & Energy Feed Support |
 | **Waldeck (9\*)** | **Abyss** | Suicide Bleed & Attack Buff Support |
 | **Holmes Young** | **Fortress** | Early-Game Crowd Control (Dove) Support |
-| **Carrie** | **Dark** | Energy Drain Support & Eloise Slot 2 Tenant |
 | **Drake** | **Dark** | Defense Down Debuffer & Permanent LFA Slot 1 Tenant |
 | **Mockman** | **Dark** | Temporary LFA Slot 4 Tenant (Replaced by PDE at 3rd Trans) |
 
@@ -84,16 +84,16 @@ Once Eloise reaches **Void Imprint 4 (V4)**, she unlocks **Cloud Island** as you
 | Hero (Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Eloise** (Shadow) | Homeowner / Tank | **V4** | **T3 (Lvl 60)** | `0/0/0/0` (Spiritual Essence only) | `0*` | **HP / Attack** | **Base Golden Crown** |
-| **Tix** (Shadow) | Tenant (Slot 3) / Burst | V0 (E5) | T0 | `0/0/0/0` | `0*` | Crit / Crit / Atk | Melodic Strings |
-| **Carrie** (Dark) | Tenant (Slot 2) / Energy Drain | V0 (E5) | T0 | `0/0/0/0` | `0*` | HP / HP | Magic Source |
 | **Onkirimaru** (Shadow) | Tenant (Slot 1) | V0 (E5) | T0 | `0/0/0/0` | `0*` | Attack / Attack | Highest Attack Stat |
-| **Jahra** (Shadow) | Tenant (Slot 4) | V0 (E5) | T0 | `0/0/0/0` | `0*` | Attack / Attack | Highest Attack Stat |
+| **Jahra** (Shadow) | Tenant (Slot 2) | V0 (E5) | T0 | `0/0/0/0` | `0*` | Attack / Attack | Highest Attack Stat |
+| **Tix** (Shadow) | Tenant (Slot 3) / Burst | V0 (E5) | T0 | `0/0/0/0` | `0*` | Crit / Crit / Atk | Melodic Strings |
+| **Carrie** (Dark) | Tenant (Slot 4) / Energy Drain | V0 (E5) | T0 | `0/0/0/0` | `0*` | HP / HP | Magic Source |
 
 * **Eloise Tenants:**
   * **Slot 1:** Onkirimaru (E5 - Shadow)
-  * **Slot 2:** Carrie (E5 - Dark)
+  * **Slot 2:** Jahra (E5 - Shadow)
   * **Slot 3:** Tix (E5 - Shadow)
-  * **Slot 4:** Jahra (E5 - Shadow)
+  * **Slot 4:** Carrie (E5 - Dark)
 
 ---
 
@@ -104,10 +104,10 @@ At **5M Crystals of Transcendence**, transcend **Aylamak (Fortress)** into **Hyp
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Eloise** (Shadow) | Homeowner / Carry | **V4** | **T3 (Lvl 60)** | `0/0/0/0` | `0*` | **HP / Attack** | **Base Golden Crown** |
 | **HHA** (Aylamak - Fortress) | 1st Trans / Shielder | **V4** | **T1 (Lvl 20)** | `0/0/0/0` | `0*` | **Block / Attack** | **Splendid Melodic Strings** (or Crown) |
-| **Tix** (Shadow) | Eloise Tenant (Slot 3) | V0 (E5) | T0 | `0/0/0/0` | `0*` | Crit / Crit / Atk | Melodic Strings |
-| **Carrie** (Dark) | Eloise Tenant (Slot 2) | V0 (E5) | T0 | `0/0/0/0` | `0*` | HP / HP | Magic Source |
 | **Onkirimaru** (Shadow) | Eloise Tenant (Slot 1) | V0 (E5) | T0 | `0/0/0/0` | `0*` | Attack / Attack | Stat Stick |
-| **Jahra** (Shadow) | Eloise Tenant (Slot 4) | V0 (E5) | T0 | `0/0/0/0` | `0*` | Attack / Attack | Stat Stick |
+| **Jahra** (Shadow) | Eloise Tenant (Slot 2) | V0 (E5) | T0 | `0/0/0/0` | `0*` | Attack / Attack | Stat Stick |
+| **Tix** (Shadow) | Eloise Tenant (Slot 3) | V0 (E5) | T0 | `0/0/0/0` | `0*` | Crit / Crit / Atk | Melodic Strings |
+| **Carrie** (Dark) | Eloise Tenant (Slot 4) | V0 (E5) | T0 | `0/0/0/0` | `0*` | HP / HP | Magic Source |
 
 ---
 
