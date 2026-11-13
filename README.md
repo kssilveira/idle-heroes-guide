@@ -158,7 +158,7 @@ At **20M Crystals of Transcendence**, transcend **Betty (Shadow)** into **Therap
 | **Drake** (Dark) | LFA Tenant (Slot 1) | V2 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 | **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | V2 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 
-> **Core of Origin Priority:** Get **1\* TBB Core** (4× 50-shard chests / 200 shards) immediately when building TBB and activate it in every Void Campaign wave. Put all other Core chests into **LFA's 3\* Noble Core (600 shards)** so LFA can unlock **Destiny Transition (DT)**.
+> **Core of Origin Priority:** Get **1\* TBB Core** (2× 50-shard chests / 100 shards) immediately when building TBB and activate it in every Void Campaign wave. Put all other Core chests into **LFA's 3\* Noble Core (8× 50-shard chests / 400 shards)** so LFA can unlock **Destiny Transition (DT)**.
 
 ---
 
@@ -171,9 +171,9 @@ At **25M Crystals of Transcendence**, transcend **Natalie (Light)** into **Doppe
 | Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **LFA** (Aspen - Dark) | **Main Homeowner (DT)** | **V4** | **T5 (Lvl 120)** | **`4/4/4/4`** | **`3*` (Destiny Transition)** | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings** |
-| **SQH** (Queen - Abyss) | LFA Tenant (Slot 2) | **V4** | **T5 (Lvl 120)** | **`4/0/4/4`** | **`3*` (2nd DT Target)** | **Speed / Attack** | **Splendid Demon Bell** |
-| **PDE** (Elena - Dark) | LFA Tenant (Slot 4) | **V4** | **T5 (Lvl 100)** | **`4/0/4/4`** | `0*` | **Speed / Attack** | **Splendid Demon Bell** |
-| **TBB** (Betty - Shadow) | Crowd Control Lockdown | **V4** | **T1 (Lvl 20)** | **`1/0/0/0`** | **`1*` (Active in VC)** | **HP / HP** | **Splendid Illusive Mirror** |
+| **SQH** (Queen - Abyss) | LFA Tenant (Slot 2) (DT) | **V4** | **T5 (Lvl 120)** | **`4/4/4/4` (Full for DT)** | **`3*` (2nd DT Target)** | **Speed / Attack** | **Splendid Demon Bell** |
+| **PDE** (Elena - Dark) | LFA Tenant (Slot 4) | **V4** | **T5 (Lvl 100)** | **`1/0/4/4`** | `0*` | **Speed / Attack** | **Splendid Demon Bell** |
+| **TBB** (Betty - Shadow) | Crowd Control Lockdown | **V4** | **T1 (Lvl 20)** | **`0/0/0/0`** | **`1*` (Active in VC)** | **HP / HP** | **Splendid Illusive Mirror** |
 | **DGN** (Natalie - Light) | Buffer / Shield Replicator | **V4** | **T5 (Lvl 100)** | **`1/0/0/4`** (1 Active, Max P3) | `0*` | **Speed / HP** | **Splendid Demon Bell** |
 | **Drake** (Dark) | LFA Tenant (Slot 1) | V3 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 | **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | V3 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
@@ -189,11 +189,11 @@ At **30M Crystals of Transcendence**, transcend **Melissa (Forest)** into **Lady
 | Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **LFA** (Aspen - Dark) | **Main Homeowner (DT)** | **V4** | **T5 (Lvl 120)** | **`4/4/4/4`** | **`3*` (DT)** | **Crit / Crit Dmg / Atk** | **Splendid Melodic Strings** |
-| **SQH** (Queen - Abyss) | LFA Tenant (Slot 2) (DT) | **V4** | **T5 (Lvl 120)** | **`4/0/4/4`** | **`3*` (DT)** | **Speed / Attack** | **Splendid Demon Bell** |
-| **PDE** (Elena - Dark) | LFA Tenant (Slot 4) (DT) | **V4** | **T5 (Lvl 120)** | **`4/0/4/4`** | **`3*` (3rd DT Target)** | **Speed / Attack** | **Splendid Demon Bell** |
-| **TBB** (Betty - Shadow) | Crowd Control Lockdown | **V4** | **T1 (Lvl 20)** | **`1/0/0/0`** | **`1*`** | **HP / HP** | **Splendid Illusive Mirror** |
-| **DGN** (Natalie - Light) | Buffer / Shield Support | **V4** | **T5 (Lvl 100)** | **`4/0/4/4`** | `0*` | **Speed / HP** | **Splendid Demon Bell** |
-| **LBRM** (Melissa - Forest) | Cleanser / Damage Amp | **V4** | **T5 (Lvl 100)** | **`1/0/0/4`** (1 Active, Max P3) | `0*` | **Speed / HP** | **Splendid Demon Bell** |
+| **SQH** (Queen - Abyss) | LFA Tenant (Slot 2) (DT) | **V4** | **T5 (Lvl 120)** | **`4/4/4/4`** | **`3*` (DT)** | **Speed / Attack** | **Splendid Demon Bell** |
+| **PDE** (Elena - Dark) | LFA Tenant (Slot 4) (DT) | **V4** | **T5 (Lvl 120)** | **`4/4/4/4` (Full for DT)** | **`3*` (3rd DT Target)** | **Speed / Attack** | **Splendid Demon Bell** |
+| **TBB** (Betty - Shadow) | Crowd Control Lockdown | **V4** | **T1 (Lvl 20)** | **`0/0/0/0`** | **`1*`** | **HP / HP** | **Splendid Illusive Mirror** |
+| **DGN** (Natalie - Light) | Buffer / Shield Support | **V4** | **T5 (Lvl 100)** | **`1/0/4/4`** | `0*` | **Speed / HP** | **Splendid Demon Bell** |
+| **LBRM** (Melissa - Forest) | Cleanser / Damage Amp | **V4** | **T5 (Lvl 100)** | **`4/0/0/4`** (Max Active & P3) | `0*` | **Speed / HP** | **Splendid Demon Bell** |
 | **Drake** (Dark) | LFA Tenant (Slot 1) | V4 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 | **Onkirimaru** (Shadow) | LFA Tenant (Slot 3) | V4 | T0 | `0/0/0/0` | `0*` | **Attack / Attack** | Any +Attack Artifact |
 
@@ -202,7 +202,7 @@ At **30M Crystals of Transcendence**, transcend **Melissa (Forest)** into **Lady
 ## Summary Priority Checklists
 
 ### 1. Sublimation Essence Order (`Active / P1 / P2 / P3`)
-Each node costs **45,000 Sublimation Essence** (`4` nodes = **180,000** for a full branch):
+Each node costs **45,000 Sublimation Essence** (`4` nodes = **180,000** for a full branch; **720,000** for `4/4/4/4` required for Destiny Transition):
 1. **LFA Active:** `4/0/0/0` (180k)
 2. **LFA Passive 3:** `4/0/0/4` (180k)
 3. **SQH Active:** `4/0/0/0` (180k)
@@ -210,13 +210,15 @@ Each node costs **45,000 Sublimation Essence** (`4` nodes = **180,000** for a fu
 5. **PDE Active (1 node) + Passive 2:** `1/0/4/0` (225k)
 6. **SQH Passive 3:** `4/0/0/4` (180k)
 7. **PDE Passive 3:** `1/0/4/4` (180k)
-8. **LFA Passive 1:** `4/4/4/4` (180k — needed for LFA Destiny Transition)
-9. **DGN Active (1 node) + Passive 3:** `1/0/0/4` (225k)
-10. **LBRM Active (1 node) + Passive 3:** `1/0/0/4` (225k)
+8. **LFA Passive 1:** `4/4/4/4` (180k — completes LFA for 1st Destiny Transition)
+9. **SQH Passive 2 + Passive 1:** `4/4/4/4` (360k — completes SQH for 2nd Destiny Transition)
+10. **DGN Active (1 node) + Passive 3:** `1/0/0/4` (225k)
+11. **PDE Remaining Active (3 nodes) + Passive 1:** `4/4/4/4` (315k — completes PDE for 3rd Destiny Transition)
+12. **LBRM Active + Passive 3:** `4/0/0/4` (360k)
 
 ### 2. Core of Origin & Destiny Transition (DT) Order
-Each 1\* Core requires **200 Core Shards** (4× 50-shard chests); a 3\* Noble Core requires **600 Core Shards** (12× 50-shard chests):
-1. **TBB 1\* Core** (200 shards) — Mandatory for her passive AoE Twine CC in Void Campaign. Stop at 1\*.
-2. **LFA 3\* Noble Core** (600 shards) — Unlocks **1st Destiny Transition (LFA)**.
-3. **SQH 3\* Noble Core** (600 shards) — Unlocks **2nd Destiny Transition (SQH)**.
-4. **PDE 3\* Noble Core** (600 shards) — Unlocks **3rd Destiny Transition (PDE)**.
+Unlocking **Destiny Transition (DT)** on a hero requires **Tree Level 120 (T5)**, **Full Sublimation (`4/4/4/4`)**, and a **3\* Noble Core**. Each **1\* Primary Core** requires **100 Core Shards** (2× 50-shard chests); a **3\* Noble Core** requires **400 Core Shards** (8× 50-shard chests):
+1. **TBB 1\* Core** (100 shards / 2 chests) — Mandatory for her passive AoE Twine CC in Void Campaign. Stop at 1\*.
+2. **LFA 3\* Noble Core** (400 shards / 8 chests) — Unlocks **1st Destiny Transition (LFA)**.
+3. **SQH 3\* Noble Core** (400 shards / 8 chests) — Unlocks **2nd Destiny Transition (SQH)**.
+4. **PDE 3\* Noble Core** (400 shards / 8 chests) — Unlocks **3rd Destiny Transition (PDE)**.
