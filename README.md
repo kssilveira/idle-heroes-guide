@@ -20,17 +20,17 @@ A streamlined, single-path progression guide for Free-to-Play (F2P) players from
 
 ### Non-Transcendence Heroes (Carry, Supports & Tenants)
 
-| Hero Name | Faction | Role |
-| :--- | :--- | :--- |
-| **Eloise** | **Shadow** | Early-Game Main Carry & 1st Homeowner (Swapped at 2nd Trans) |
-| **Onkirimaru** | **Shadow** | Eloise Slot 1 Tenant $\rightarrow$ Permanent LFA Slot 3 Tenant |
-| **Jahra** | **Shadow** | Eloise Slot 2 Tenant |
-| **Tix** | **Shadow** | Early Burst Support & Eloise Slot 3 Tenant |
-| **Carrie** | **Dark** | Energy Drain Support & Eloise Slot 4 Tenant ($\rightarrow$ LFA Slot 2 Temp) |
-| **Ignis (9\*)** | **Abyss** | Suicide Control Immunity & Energy Feed Support |
-| **Waldeck (9\*)** | **Abyss** | Suicide Bleed & Attack Buff Support |
-| **Drake** | **Dark** | Defense Down Debuffer & Permanent LFA Slot 1 Tenant |
-| **Mockman** | **Dark** | Temporary LFA Slot 4 Tenant (Replaced by PDE at 3rd Trans) |
+| Order | Hero Name | Faction | First Used | Role |
+| :--- | :--- | :--- | :--- | :--- |
+| **1st** | **Eloise** | **Shadow** | Stage 0 | Early-Game Main Carry & 1st Homeowner (Swapped at 2nd Trans) |
+| **2nd** | **Ignis (9\*)** | **Abyss** | Stage 0 | Suicide Control Immunity & Energy Feed Support |
+| **3rd** | **Waldeck (9\*)** | **Abyss** | Stage 0 | Suicide Bleed & Attack Buff Support |
+| **4th** | **Tix** | **Shadow** | Stage 0 | Early Burst Support & Eloise Slot 3 Tenant |
+| **5th** | **Carrie** | **Dark** | Stage 0 | Energy Drain Support & Eloise Slot 4 Tenant ($\rightarrow$ LFA Slot 2 Temp) |
+| **6th** | **Onkirimaru** | **Shadow** | Stage 0 | Eloise Slot 1 Tenant $\rightarrow$ Permanent LFA Slot 3 Tenant |
+| **7th** | **Jahra** | **Shadow** | Stage 1 | Eloise Slot 2 Tenant |
+| **8th** | **Drake** | **Dark** | Stage 3 | Defense Down Debuffer & Permanent LFA Slot 1 Tenant |
+| **9th** | **Mockman** | **Dark** | Stage 3 | Temporary LFA Slot 4 Tenant (Replaced by PDE at 3rd Trans) |
 
 ---
 
@@ -74,7 +74,9 @@ Focus 100% of food and copies on building **Eloise to E5** first. Do not build m
   1. **Eloise (E5 - Shadow)** — Unlocks Void Gate and carries Seal Land 20 Shadow.
   2. **Ignis (9\* Level 100 - Abyss)** — Naked (no gear) suicide support placed directly behind Eloise for Control Immunity and Energy feed on death. **Do not upgrade past 9\*.**
   3. **Waldeck (9\* Level 100 - Abyss)** — Naked suicide support for attack/bleed buff on death. **Do not upgrade past 9\*.**
-  4. **Tix (E5 - Shadow)** — Clears Aspen Dungeon Death 100 and Tower of Oblivion.
+  4. **Tix (E5 - Shadow)** — Clears Aspen Dungeon Death 100 and Tower of Oblivion; Eloise Slot 3 Tenant.
+  5. **Carrie (E5 - Dark)** — Energy drain support; Eloise Slot 4 Tenant.
+  6. **Onkirimaru (E5 - Shadow)** — Eloise Slot 1 Tenant (and future LFA Slot 3 Tenant).
 
 ---
 
