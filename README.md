@@ -42,7 +42,7 @@ A streamlined, single-path progression guide for Free-to-Play (F2P) players from
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Stage 0** | Month 0–1 | First E5 Carry | Eloise, Ignis (9\*), Waldeck (9\*), Tix, Carrie, Onkirimaru | None | None |
 | **Stage 1** | Month 1–2.5 | Pre-Trans Cloud Island | Eloise, Ignis (9\*), Waldeck (9\*), Tix, Carrie, Onkirimaru | **Eloise** | Onkirimaru / Jahra / Tix / Carrie |
-| **Stage 2** | Month 2.5–4.5 | **1st Trans Hero** (5M CoT) | Eloise, Ignis (9\*), **GSSW**, Waldeck (9\*), Tix, Carrie | **Eloise** | Onkirimaru / Jahra / Tix / Carrie |
+| **Stage 2** | Month 2.5–4.5 | **1st Trans Hero** (5M CoT) | Eloise, Ignis (9\*), Waldeck (9\*), **GSSW**, Tix, Carrie | **Eloise** | Onkirimaru / Jahra / Tix / Carrie |
 | **Stage 3** | Month 4.5–7.5 | **2nd Trans Pivot** (10M CoT) | **LFA**, Ignis (9\*), **SQH**, Drake, Carrie, Onkirimaru | **LFA** | Drake / **SQH** / Onkirimaru / Mockman |
 | **Stage 4** | Month 7.5–10 | **3rd Trans Hero** (15M CoT) | **LFA**, Ignis (9\*), **SQH**, **PDE**, Drake, Carrie | **LFA** | Drake / **SQH** / Onkirimaru / **PDE** |
 | **Stage 5** | Month 10–12.5 | **4th Trans Hero** (20M CoT) | **LFA**, **SQH**, **PDE**, **TBB**, Carrie, Drake | **LFA** | Drake / **SQH** / Onkirimaru / **PDE** |
@@ -100,7 +100,7 @@ Once Eloise reaches **Void Imprint 4 (V4)**, she unlocks **Cloud Island** as you
 ### Stage 2: 1st Transcendence Hero — GSSW (Month 2.5–4.5)
 At **5M Crystals of Transcendence**, transcend **Sun Wukong (Light)** into **Great Sage - Sun Wukong (GSSW)**. **Keep Eloise as your main Homeowner**—do not move Eloise out of her house yet. Invest Stellar Shards to **V4 + T2 (Lvl 40) GSSW** (rather than V4ing Eloise's non-Trans tenants) so GSSW can clear **Void Campaign 1-1-10** immediately and unlock passive **Primal Grimoire** resource drops.
 
-* **Active Lineup (Positions 1–6):** Eloise, Ignis (9\*), **GSSW**, Waldeck (9\*), Tix, Carrie
+* **Active Lineup (Positions 1–6):** Eloise, Ignis (9\*), Waldeck (9\*), **GSSW**, Tix, Carrie
 
 | Hero (Base / Faction) | Role | Void Level | Tree Level | Essence (Sublimation) | Core Level | Stone | Artifact |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
